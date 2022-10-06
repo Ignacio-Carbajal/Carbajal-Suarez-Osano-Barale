@@ -51,3 +51,71 @@ Dentro de la compañía de transporte como ya identificamos, tenemos gente que t
 **Plataformas de descargas de aplicaciones:** Son los intermediarios entre la aplicación y el usuario, ya que nos ofrecen un lugar donde los clientes pueden descargar la aplicación.
 
 **Intendencia de Montevideo:** Nos brinda la posibilidad de tener una boletera virtual, en lugar de utilizar la tarjeta STM.
+
+# Estudio de Competidores
+
+A continuación vamos a detallar el estudio de las competencias, comentando los puntos a favor y en contra que encontramos.
+
+## Moovit
+
+### Cosas a Favor
+
+* Poder guardar los lugares favoritos a los que concurre
+
+* Notificación de actualizaciones tanto en la aplicación, como así también en los recorridos
+
+* Siguiendo con el primer punto, también se puede guardar las paradas y las líneas favoritas
+
+### Cosas en Contra
+
+* Existe una versión paga, en la cual las publicidades no existen
+
+* No tiene un horario en tiempo real que podemos verificar por donde se encuentra la línea
+
+*
+
+## Cómo ir
+
+### Cosas a Favor
+
+* Podemos verificar por donde se encuentra nuestra linea, ya que existe la opcion de ver el recorrido en tiempo real independientemente de la empresa en la cual se quiere viajar
+
+* Muestra las líneas que cuentan con lugares para discapacitados
+
+* No contiene una versión paga
+
+### Cosas En Contra
+
+* Mala optimización lo que genera tener que reiniciarla
+
+* No contiene un historial de viajes. Lo que implica tener que volver a ingresar los datos de viajes frecuentes
+
+* Funcionalidades no útiles
+
+## STM Montevideo
+
+### Cosas a Favor
+
+* Contiene un diseño simple pero funcional
+
+* No contiene una versión paga
+
+### Cosas en Contra
+
+* Parece una versión en la cual no pasó por múltiples etapas de testing. Por lo tanto tiene varios errores de diseño.
+
+## Cutcsa
+
+### Cosas a Favor
+
+* Diseño simple en la sección principal
+
+* Información en tiempo real sobre las líneas que viene en camino
+
+### Cosas en Contra
+
+* Funcionalidades extras que no están a la vista y no se especifica su uso
+
+* Algunas funciones están ocultas y mal implementadas
+
+* Solamente podes ver la ubicación en tiempo real de los ómnibus de la empresa Cutcsa.
