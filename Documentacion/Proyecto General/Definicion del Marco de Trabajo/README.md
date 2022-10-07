@@ -12,6 +12,9 @@ Scrum nos permite trabajar de una forma mas unida y organizada generando retroal
 
 
 ### Reuniones
+
+
+
 #### Sprint planing
 Al comienzo de cada sprint definimos que tareas hacer para la iteración.
 Estas tareas fueron discutidas una vez que estuvo bien definido el backlog.
@@ -32,15 +35,54 @@ Esta reunión se hace después del Sprint Review y el objetivo es reflexionar so
 #### Scrum Master
 Lucas Suarez.
 
+Por su experiencia como profesor particular de matemáticas, Lucas tiene la habilidad de comunicarse y explicarse de forma correcta pudiendo así llevar a cabo la capacitación a los miembros del equipo.
+Es una persona organizada, por ende, puede llevar a cabo las reuniones rápidas diarias, preguntando a cada uno cuando disponen del tiempo para hacerlas y buscar el mejor momento para ellas.
+Es proactivo, lo cual es necesario para eliminar todos los posibles obstáculos que los Developers y el producto owner tangan.
+
 #### Product Owner
 Ignacio Carbajal.
 
+Por la simpleza y facilidad para explicarse, la forma en que escuchar e interpretar lo que otros dicen, hacen que Ignacio pueda desempeñar este rol de forma correcta ya que se necesita de alguien que escuche las ideas del cliente y se las traspase al equipo de trabajo.
+Es organizado y meticuloso, por lo que tendrá facilidad para organizar las tareas del producto backlog con la prioridad que merezcan. Además de poder gestionar todo el tiempo de vida del producto, supervisando paso por paso para que todo salga de la mejor manera posible y como lo definido en el backlog.
+
 #### Development Team
-Agustin Barale. Felipe Osano.
+Agustin Barale y Felipe Osano.
 
+Se tomó la decisión de elegir a Felipe y Agustín como los Developers del equipo debido a la experiencia que ambos manejan ya que trabajan en el área del desarrollo de Software.
+Son creativos, algo necesario para poder plasmar lo que el producto backlog exige.
+Saben trabajar en equipo, se adaptan a los cambios y gestionan bien el tiempo.
 
-### Politicas de trabajo
+### Politicas de trabajo de la iteracion 1.
 #### Definition of Ready
 
+Identificación del problema a resolver:
+
+* A quien está orientado nuestro producto
+* Que desea cada uno de ellos
+* Saber cuales son nuestros competidores y en qué área estamos compitiendo
+
+Definición del problema solución:
+* Conocer el producto
+
+Encuesta para Requerimientos:
+* Tener definido nuestros consumidores
+* La forma en la que se ejecutara la encuesta (presencial, Google forms, etc)
+* Si es viable la encuesta para recaudar la información que necesitamos
 
 #### Definition of Done
+
+Identificación del problema a resolver:
+
+* Si es viable la encuesta para recaudar la información que necesitamos
+* Reconocer de forma correcta a que consumidores estamos apuntando.
+* Filtrar la lista de funcionalidades de forma que queden priorizadas, si alguna de las tareas del sprint backlog no llego a realizarse, que la misma vuelva al producto backlog y se tenga en cuenta para el siguiente sprint.
+
+Definición del problema solución:
+
+* Cuando todo el equipo entendió de forma correcta lo que se tenia que hacer, siguiendo se había acordado por el producto owner y el scrum master, dentro del producto backlog
+
+Encuesta para Requerimientos:
+
+* Cuando se alcanzó a una cantidad esperada de encuestados
+* Se recaudo la suficiente información para poder analizar las respuestas
+
