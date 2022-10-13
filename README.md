@@ -1,0 +1,379 @@
+# Carbajal-Suarez-Osano-Barale
+* Repositorio dedicado al obligatorio de Ingeniería de Software Ágil 1.
+
+# Iteracion 2:
+
+# Indice
+
+1. [Documentacion.](#id1)
+2. [Requerimientos Iteracion 1.](#id2)
+
+# Documentacion: <a name="id1"></a>
+# Proyecto General:
+
+# Definición del Marco de Trabajo
+
+
+## Scrum
+Definimos usar Scrum por ser un buen marco de trabajo colaborativo entre equipos.
+Scrum nos permite priorizar los módulos que aportan mayor valor al negocio y a la organización de una manera iterativa, recibiendo constantemente una retroalimentación de parte del equipo y del product owner.
+Este marco de trabajo nos permite organizarnos de una mejor forma utilizando iteraciones a lo largo del proyecto las cuales tienen una duración de 2 semanas. Esto permite al equipo enfocarse durante la iteración en las tareas definidas en la misma.
+Scrum nos permite trabajar de una forma mas unida y organizada generando retroalimentación de una manera constante al realizar reuniones diarias entre los miembros del equipo y reuniones con el product owner obteniendo un feedback sobre el trabajo realizado.
+
+
+### Reuniones
+
+falta
+
+#### Sprint planing
+Al comienzo de cada sprint definimos que tareas hacer para la iteración.
+Estas tareas fueron discutidas una vez que estuvo bien definido el backlog.
+
+#### Daily Scrum
+Esta es una reunión diaria del equipo que se usa en este marco de trabajo.
+Por diferencia de horario y por no tener avances todos los días decidimos estar comunicados por mensajes y juntarnos cuando sea necesario.
+
+####  Sprint Review
+Al finalizar cada sprint vamos a realizar esta reunión para identificar aspectos positivos y negativos sobre el trabajo realizado. En este tipo de reunión se estudia cual es la situación junto al product owner y en base a eso se actualiza el product backlog con las nuevas condiciones.
+
+#### Retrospectiva
+Esta reunión se hace después del Sprint Review y el objetivo es reflexionar sobre el ultimo sprint e identificar posibles mejores para el próximo.
+
+
+### Roles
+
+#### Scrum Master
+Lucas Suarez.
+
+Por su experiencia como profesor particular de matemáticas, Lucas tiene la habilidad de comunicarse y explicarse de forma correcta pudiendo así llevar a cabo la capacitación a los miembros del equipo.
+Es una persona organizada, por ende, puede llevar a cabo las reuniones rápidas diarias, preguntando a cada uno cuando disponen del tiempo para hacerlas y buscar el mejor momento para ellas.
+Es proactivo, lo cual es necesario para eliminar todos los posibles obstáculos que los Developers y el producto owner tangan.
+
+#### Product Owner
+Ignacio Carbajal.
+
+Por la simpleza y facilidad para explicarse, la forma en que escuchar e interpretar lo que otros dicen, hacen que Ignacio pueda desempeñar este rol de forma correcta ya que se necesita de alguien que escuche las ideas del cliente y se las traspase al equipo de trabajo.
+Es organizado y meticuloso, por lo que tendrá facilidad para organizar las tareas del producto backlog con la prioridad que merezcan. Además de poder gestionar todo el tiempo de vida del producto, supervisando paso por paso para que todo salga de la mejor manera posible y como lo definido en el backlog.
+
+#### Development Team
+Agustin Barale y Felipe Osano.
+
+Se tomó la decisión de elegir a Felipe y Agustín como los Developers del equipo debido a la experiencia que ambos manejan ya que trabajan en el área del desarrollo de Software.
+Son creativos, algo necesario para poder plasmar lo que el producto backlog exige.
+Saben trabajar en equipo, se adaptan a los cambios y gestionan bien el tiempo.
+
+### Politicas de trabajo de la iteracion 1. 
+#### Definition of Ready
+
+Identificación del problema a resolver:
+
+* A quien está orientado nuestro producto
+* Que desea cada uno de ellos
+* Saber cuales son nuestros competidores y en qué área estamos compitiendo
+
+Definición del problema solución:
+* Conocer el producto
+
+Encuesta para Requerimientos:
+* Tener definido nuestros consumidores
+* La forma en la que se ejecutara la encuesta (presencial, Google forms, etc)
+* Si es viable la encuesta para recaudar la información que necesitamos
+
+#### Definition of Done
+
+Identificación del problema a resolver:
+
+* Si es viable la encuesta para recaudar la información que necesitamos
+* Reconocer de forma correcta a que consumidores estamos apuntando.
+* Filtrar la lista de funcionalidades de forma que queden priorizadas, si alguna de las tareas del sprint backlog no llego a realizarse, que la misma vuelva al producto backlog y se tenga en cuenta para el siguiente sprint.
+
+Definición del problema solución:
+
+* Cuando todo el equipo entendió de forma correcta lo que se tenia que hacer, siguiendo se había acordado por el producto owner y el scrum master, dentro del producto backlog
+
+Encuesta para Requerimientos:
+
+* Cuando se alcanzó a una cantidad esperada de encuestados
+* Se recaudo la suficiente información para poder analizar las respuestas
+
+# Inspeccion y adaptacion del proceso:
+
+# Retrospectiva #
+
+* No marcamos las horas trabajadas de cada integrante para cada tarea, solo marcamos quien las realizo y cuando se fnalizaron. Sabemos que es una mala practica pero sera implementado para la siguiente iteracion.
+* Debemos de organizar mejor los tiempos de trabajo, ya que para que esta entrega tuvimos que dejar cosas sin hacer por falta de tiempo.
+* No cumplimos con las reuniones necesarias.
+* No mostramos de forma correcta el desarrollo del Product Blacklog ni del Sprint Backlog.
+
+# Planificacion de Iteraciones:
+
+falta
+
+# Preparar entorno de trabajo
+
+falta
+
+# Repositorio del proyecto #
+
+ ## Estrategias de GitHub / Git: ##
+
+Tomamos la decisión de trabajar con carpetas por:
+Epicas, features, UserStory.
+Luego dentro de cada User Story un archivo readme con la información, cada tarea se actualizara por commit.
+
+ ## Estrategias de Branching: ##
+Tomamos la decisión de hacer una rama por Interacción y trabajar siempre sobre la misma, ya que podíamos trabajar sobre archivos diferentes y esto no generaría conflictos. 
+
+
+# Seguimiento de las iteraciones:
+
+falta
+
+
+# Requerimientos Iteracion 1: <a name="id2"></a>
+
+## Evidencia de trabajo por integrante:
+
+aca van las capturas 
+
+## Usuarios:
+
+## Definicion del problema solucion:
+
+### Product Backlog (agregar lo de los numeros)
+
+- Registrar nuevo usuario
+
+- Login de usuario
+
+- Restaurar contraseña
+
+- Editar usuario
+
+- Buscar líneas de ómnibus utilizando filtros
+
+- Filtro por origen y destino
+
+- Filtro por parada
+
+- Filtro por hora y fecha
+
+- Filtro por línea
+
+- Filtro por ómnibus de discapacitado
+
+- Listado de las líneas más cercanas al usuario con información del destino/origen/tiempo estimado, con la información de cantidad de pasajeros en las mismas.
+
+- Modo viaje. El usuario debe poder seguir el trayecto de la línea de ómnibus a la que se subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas hasta el próximo destino e información del destino.
+
+- Notificaciones:
+
+	- La línea seleccionada está por llegar a la parada de ómnibus.
+
+	- La siguiente parada es tu destino.
+
+	- Tu línea frecuente llega en X minutos (dependiendo de la distancia del usuario a la parada) a tu parada habitual.
+
+	- La línea seleccionada tiene un retraso y demorará en llegar a tu parada origen.
+
+	- La línea seleccionada tiene un desvío.
+	-  Que te avise cuando va a existir un cambio de recorrido por una circunstancia externa.
+
+- Compartir mi viaje con otro usuario (se comparte el viaje con otro usuario para que vea el recorrido del ómnibus en tiempo real)
+
+- Historias de los últimos viajes (líneas de ómnibus utilizadas).
+
+
+### Criterios de aceptación
+
+**Registrar nuevo usuario**
+
+**Dado** un nuevo usuario, **cuando** este se registra **entonces** se le manda un mail de confirmación de registro para que inicie sesión.
+
+**Login de usuario**
+
+ **Dado** un usuario registrado, **cuando** este ingresa sus datos  **entonces**  inicia sesión y es enviado a la página principal
+
+**Restaurar contraseña**
+**Dado** un usuario registrado, **cuando** ingresa su email  **entonces** se ke manda un mail de recuperación de contraseña 
+  
+**Editar usuario**
+**Dado** un usuario registrado, **cuando** este cambia sus datos **entonces** se actualiza su información 
+  
+**Buscar líneas de ómnibus utilizando filtros**
+**Dado** un usuario, **cuando** utiliza un filtro **entonces** se muestran los datos filtrados
+
+-  **Filtro por origen y destino**
+
+-  **Filtro por parada**
+
+-  **Filtro por hora y fecha**
+
+-  **Filtro por línea**
+
+-  **Filtro por ómnibus de discapacitado**
+
+**Listado de las líneas más cercanas al usuario con información del destino/origen/tiempo estimado, con la información de cantidad de pasajeros en las mismas.**
+**Dado** un usuario,**cuando** este lista las líneas mas cercanas, **entonces** se muestran las lineas mas cercanas y la información de cantidad de pasajeros en las mismas  
+
+**Modo viaje. El usuario debe poder seguir el trayecto de la línea de ómnibus a la que se subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas hasta el próximo destino e información del destino.**
+**Dado** un usuario, **cuando** este activa el modo viaje **entonces** se le muestra el trayecto de la linea a la que se subió.
+
+**Notificaciones:**
+**Dado** un usuario **cuando** este tiene instalada la aplicación y tiene activadas las notificaciones **entonces** recibe notificaciones de la aplicación
+
+-  **La línea seleccionada está por llegar a la parada de ómnibus.**
+
+-  **La siguiente parada es tu destino.**
+
+-  **Tu línea frecuente llega en X minutos (dependiendo de la distancia del usuario a la parada) a tu parada habitual.**
+
+-  **La línea seleccionada tiene un retraso y demorará en llegar a tu parada origen.**
+
+-  **La línea seleccionada tiene un desvío.**
+
+ -  **Que te avise cuando va a existir un cambio de recorrido por una circunstancia externa.**
+
+**Compartir mi viaje con otro usuario (se comparte el viaje con otro usuario para que vea el recorrido del ómnibus en tiempo real)**
+**Dado** un usuario **cuando** comparte un viaje **entonces** se genera un enlace para poder compartir el viaje con otros usuarios 
+
+**Historial de los últimos viajes (líneas de ómnibus utilizadas).**
+**Dado** un usuario **cuando** este accede al historial de viajes **entonces** se le muestran sus ultimos viajes realizados 
+
+# Encuesta para Requerimientos:
+
+## Crear la Encuesta
+
+A continuación pasaremos a detallar las preguntas que nos parecieron necesarias para poder tener un mejor panorama sobre qué faltaría en una aplicación de este estilo, porque la gente la utiliza, entre otras cosas importantes.
+
+1) Edad del encuestado
+
+2) Utiliza Aplicaciones para viajar en transporte público
+
+3) De ser afirmativa la respuesta anterior, cuáles son de su preferencia
+
+4) Que mejora haría de dichas aplicaciones
+
+
+# Identificación del problema a resolver
+
+### Identificación de interesados
+
+Vamos a tener interesados con diferentes propósitos.. Los interesados en el proyecto son personas y organizaciones que están activamente involucrados en el proyecto , o cuyos intereses pueden verse afectados de manera positiva o negativa por la ejecución o terminación del proyecto.
+A continuación pasamos a detallar los distintos interesados que fuimos identificando a lo largo de la iteración:
+
+**Compañías de transporte:** Son empresas de transporte que operan en Montevideo, las cuales contienen la mayoría de las líneas de recorrido en Montevideo. Son interesados porque el uso de la aplicación es una mejora al servicio de dichas empresas, además ellos nos aportan los horarios de los recorridos de las líneas de transporte, sabiendo así los horarios del mismo. Algunos ejemplos son: CUTCSA, COME, COETC, UCOT.
+
+Dentro de las líneas de colectivos podemos identificar varios roles de subinteresados, éstos pueden ser tanto los choferes, los guardas o los inspectores, ya que el uso de la aplicación facilita sus trabajos.
+
+**Pasajeros:** Es el principal interesado, ya que va a ser quien va a usar la mayoría de las funcionalidades ofrecidas por la aplicación. 
+
+**Google:** Es la compañía que nos va a brindar los mapas necesarios para el funcionamiento de la aplicación.
+
+**Plataformas de descargas de aplicaciones:** Es donde los usuarios podrán conseguir la aplicación. Como por ejemplo: Play Store, AppStore, etc.
+
+**Intendencia de Montevideo:** Presta el servicio de la tarjeta STM.
+
+
+### Lista de funcionalidades por interesado
+
+**Compañías de transporte:** Estadísticas sobre concurrencia en los ómnibus en distintos horarios y zonas.
+
+Dentro de la compañía de transporte como ya identificamos, tenemos gente que trabaja para la misma, entonces va a utilizar la aplicación para facilitar sus tareas dentro de la empresa.
+ - Choferes: Pueden usar la aplicación para ser notificados sobre cambios de rutas, o como guía para inexpertos.
+ - Inspectores: Pueden usar la aplicación para agilizar sus tareas diarias dentro y fuera de los ómnibus, como controlar a los pasajeros y los horarios de los ómnibus.
+
+**Pasajeros**: 
+
+ - Buscar líneas de ómnibus utilizando filtros.
+ - Listado de las líneas mas cercanas al usuario con información del origen, destino y tiempo estimado.
+ - Cantidad de pasajeros en una unidad.
+ - Modo viaje: El usuario puede seguir el trayecto de la línea a la que se subió, sabiendo en tiempo real donde se encuentra y cuales son las siguientes paradas hasta su destino.
+ - Notificaciones: 
+	 - El ómnibus está por llegar a la parada de origen
+	 - El ómnibus está por llegar a la parada de destino
+	 - Tu línea frecuente llega en x minutos
+	 - El ómnibus tiene un retraso y tardará en llegar a la parada
+	 - La línea seleccionada tiene un desvío
+
+ - Compartir mi viaje con otro usuario.
+ - Historial de los últimos viajes.
+ - Modo no vidente.
+ - Modo daltónico.
+ 
+ **Google:**
+ En éste caso nosotros no le vamos a brindar un servicio a Google, si no, ellos a nosotros. Como sería la de los mapas que utilizaremos en la aplicación.
+ También vamos a contar con el inicio de sesión con la cuenta de Google, utilizando OAuth.
+ 
+**Plataformas de descargas de aplicaciones:** Son los intermediarios entre la aplicación y el usuario, ya que nos ofrecen un lugar donde los clientes pueden descargar la aplicación.
+
+**Intendencia de Montevideo:** Nos brinda la posibilidad de tener una boletera virtual, en lugar de utilizar la tarjeta STM.
+
+# Estudio de Competidores
+
+A continuación vamos a detallar el estudio de las competencias, comentando los puntos a favor y en contra que encontramos.
+
+## Moovit
+
+### Cosas a Favor
+
+* Poder guardar los lugares favoritos a los que concurre
+
+* Notificación de actualizaciones tanto en la aplicación, como así también en los recorridos
+
+* Siguiendo con el primer punto, también se puede guardar las paradas y las líneas favoritas
+
+### Cosas en Contra
+
+* Existe una versión paga, en la cual las publicidades no existen
+
+* No tiene un horario en tiempo real que podemos verificar por donde se encuentra la línea
+
+*
+
+## Cómo ir
+
+### Cosas a Favor
+
+* Podemos verificar por donde se encuentra nuestra linea, ya que existe la opcion de ver el recorrido en tiempo real independientemente de la empresa en la cual se quiere viajar
+
+* Muestra las líneas que cuentan con lugares para discapacitados
+
+* No contiene una versión paga
+
+### Cosas En Contra
+
+* Mala optimización lo que genera tener que reiniciarla
+
+* No contiene un historial de viajes. Lo que implica tener que volver a ingresar los datos de viajes frecuentes
+
+* Funcionalidades no útiles
+
+## STM Montevideo
+
+### Cosas a Favor
+
+* Contiene un diseño simple pero funcional
+
+* No contiene una versión paga
+
+### Cosas en Contra
+
+* Parece una versión en la cual no pasó por múltiples etapas de testing. Por lo tanto tiene varios errores de diseño.
+
+## Cutcsa
+
+### Cosas a Favor
+
+* Diseño simple en la sección principal
+
+* Información en tiempo real sobre las líneas que viene en camino
+
+### Cosas en Contra
+
+* Funcionalidades extras que no están a la vista y no se especifica su uso
+
+* Algunas funciones están ocultas y mal implementadas
+
+* Solamente podes ver la ubicación en tiempo real de los ómnibus de la empresa Cutcsa.
+
