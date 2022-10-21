@@ -129,10 +129,10 @@ Definición del problema solución:
 
 ## Sprint Backlog
 
-![Sprint Backlog](EvidenciaDocumentacion\SprintBacklog\SprintBacklog_Iteracion02.JPG)
+![Sprint Backlog](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion02.JPG)
 
 ## Story Map
-![Story Map](EvidenciaDocumentacion\StoryMap\StoryMap_Iteraion02.JPG)
+![Story Map](EvidenciaDocumentacion/StoryMap/StoryMap_Iteraion02.JPG)
 
 #  Inspeccion y adaptacion del proceso <a name="id3"></a>
 
@@ -176,7 +176,7 @@ En esta segunda iteracion tuvimos incovenientes en marcar las horas, por lo tant
 
 ## Iteraciones
 
-![Story Map](EvidenciaDocumentacion\RegistroHoras\Retros\Iteracion02.png)
+![Story Map](EvidenciaDocumentacion/RegistroHoras/Retros/Iteracion02.png)
 
 #  Repositorio del proyecto <a name="id5">
 
@@ -444,7 +444,7 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 
 ## Bocetos Previos
 
-![Bocetos Iteracion02](EvidenciaDocumentacion\Bocetos\Boceto_Iteracion02.jpeg)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Bocetos/Boceto_Iteracion02.jpeg)
 
 Este boceto fue pensado entre los 4 integrantes del equipo antes de realizar el prototipo final.
 
