@@ -452,10 +452,10 @@ Este boceto fue pensado entre los 4 integrantes del equipo antes de realizar el 
 
 ## Pantalla Principal
 
-![Pantalla Principal](EvidenciaDocumentacion\Prototipos\PantallaPrincipal.jpeg)
+![Pantalla Principal](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.jpeg)
 
 ## Inicio Sesion
 
-![Inicio Sesion](EvidenciaDocumentacion\Prototipos\InicioSesion.jpeg)
+![Inicio Sesion](EvidenciaDocumentacion/Prototipos/InicioSesion.jpeg)
 
 # Ispeccion y Adaptacion del Producto<a name="id10">
