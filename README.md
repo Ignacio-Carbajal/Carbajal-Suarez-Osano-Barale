@@ -231,6 +231,48 @@ Compartir mi viaje con otro usuario (se comparte el viaje con otro usuario para 
 
  Historias de los últimos viajes (líneas de ómnibus utilizadas).
 
+## Historias de Usuario
+
+**Registrar nuevo usuario:**
+
+**Como** usuario **quiero** ingresar mis credenciales **para** poder registrarme
+
+**Login de usuario:**
+
+**Como** usuario **quiero** ingresar mis datos **para** poder acceder a la aplicación
+
+**Restaurar contraseña:**
+
+**Como** usuario **quiero** escribir mi mail **para** poder restaurar mi contraseña a través del mail otorgado
+
+**Editar usuario:**
+
+**Como** usuario **quiero** escribir nuevamente mis datos **para** poder actualizar los mismos
+
+**Buscar línea de ómnibus utilizando filtros (aplicado para todos los filtros):**
+
+**Como** usuario **quiero** ingresar diferentes tipos de filtros **para** así poder ver las líneas de ómnibus que necesito
+
+**Listado de las líneas más cercanas al usuario con información del destino/origen/tiempo estimado, con la información de cantidad de pasajeros en las mismas.**
+
+**Como** usuario **quiero** poder seleccionar una funcionalidad de la aplicación **para** que esta me liste las líneas mas cercanas a mí, con toda la información necesaria.
+
+**Modo viaje. El usuario debe poder seguir el trayecto de la línea de ómnibus a la que se subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas hasta el próximo destino e información del destino.**
+
+**Como** usuario **quiero** poder seleccionar una funcionalidad de la aplicación **para** poder ver en tiempo real el recorrido del ómnibus pudiendo así ver cuales son las paradas próximas a el.
+
+**Notificaciones: (aplicado a todas las notificaciones)**
+
+**Como** usuario **quiero** que la aplicación me notifique **para** poder mantenerme al tanto en todo momento de las novedades del transporte y a la línea a la cual estoy abordando.
+
+**Compartir mi viaje con otro usuario (se comparte el viaje con otro usuario para que vea el recorrido del ómnibus en tiempo real)**
+
+**Como** usuario **quiero** que pueda compartir mi viaje **para** poder sincronizar mi viaje con otros usuarios de la aplicacion o para mostrar informacion del mismo.
+
+**Historial de los últimos viajes (líneas de ómnibus utilizadas).**
+
+**Como** usuario **quiero** que la aplicacion tenga una opcion **para** poder ver el historial de viajes
+
 ## Criterios de aceptación
 
 **Registrar nuevo usuario**
