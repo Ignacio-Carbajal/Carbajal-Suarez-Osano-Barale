@@ -32,15 +32,21 @@ Al comienzo de cada sprint definimos que tareas hacer para la iteración.
 
 Estas tareas fueron discutidas una vez que estuvo bien definido el backlog.
 
+Al realizar el sprint planning al comienzo de la iteración, ganamos que cada miembro del equipo sepa y tenga en cuenta las tareas relevantes a realizar en dicha iteración.
+
 ## Daily Scrum
 
 Esta es una reunión diaria del equipo que se usa en este marco de trabajo.
 
 Por diferencia de horario y por no tener avances todos los días decidimos estar comunicados por mensajes y juntarnos cuando sea necesario.
 
+Lo que ganamos es que todos participemos de la reunión, ya que si se realiza en otro formato no es garantía de que todos los miembros del equipo estén presentes.
+
 ## Sprint Review
 
 Al finalizar cada sprint vamos a realizar esta reunión para identificar aspectos positivos y negativos sobre el trabajo realizado. En este tipo de reunión se estudia cual es la situación junto al product owner y en base a eso se actualiza el product backlog con las nuevas condiciones.
+
+Lo que ganamos en dicha reunión es no cometer los mismos errores de iteraciones pasadas y volver a organizar futuras iteraciones.
 
 ## Retrospectiva
 
