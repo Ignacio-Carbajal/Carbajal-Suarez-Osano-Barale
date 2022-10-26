@@ -337,6 +337,39 @@ Compartir mi viaje con otro usuario (se comparte el viaje con otro usuario para 
 
 **Dado** un usuario **cuando** este accede al historial de viajes **entonces** se le muestran sus ultimos viajes realizados
 
+## Propuesta de valor.
+
+**Yenderson: ayudándote a recorrer el país.**
+
+**Titular:** ayudándote a recorrer el país.
+Subtitulo-párrafo: damos toda la información necesaria del transporte publico por lo tanto ayudamos a los que recurren a los servicios de transporte como a los que lo manejan.
+
+**Elemento visual:**
+
+![Omnibus](EvidenciaDocumentacion/Bocetos/omnibusYenderson.png)
+
+**Perfil del cliente de Yenderson:**
+
+**Trabajos de clientes:**
+Los clientes de Yenderson desean obtener toda la información necesaria sobre su viaje en transporte publico
+
+**Ganancias:**
+Los clientes quieren una forma sencilla y practica de obtener esa información para así hacer su viaje más ameno.
+
+**Dolores:**
+Las personas con discapacidades visuales no se sentirán cómodos con la aplicación.
+
+**Mapa de valor para Yenderson:**
+
+**Generador de ganancias:**
+Los clientes pueden confiar en que nuestra fuente de información es verídica, por lo tanto, puede organizar sus horarios de forma segura ya que su transporte va a cumplir con el horario marcado.
+
+**Analgésicos:**
+Vamos a hacer una aplicación que sea enfocada con personas con este tipo de discapacidad
+
+**Productos y servicios:**
+Vamos a poner un botón en la esquina superior derecha de la pantalla para que la aplicación le avise al usuario lo que está en pantalla mediante comando de voz. De esta forma la persona puede usar la aplicación.
+
 # Encuesta para Requerimientos<a name="id7">
 
 Viendo las respuestas podemos afirmar lo que suponíamos, que la edad promedio a la que están enfocadas este tipo de aplicaciones es la de un publico joven, el cual hace uso de aplicaciones de transporte para obtener información sobre el mismo.
