@@ -117,6 +117,16 @@ Identificación del problema a resolver:
 Definición del problema solución:
 
 * Cuando todo el equipo entendió de forma correcta lo que se tenia que hacer, siguiendo se había acordado por el producto owner y el scrum master, dentro del producto backlog
+  
+Atribuos de Calidad
+
+* Para poder escalar a la mayor cantidad de usuarios posibles, nuestra solución sería colocar la aplicación en las plataformas de descargas digitales más conocidas por todos (appStore y GooglePlay).
+
+* Para que nuestra aplicación pueda ser utilizada por las distintas franjas etarias de la población, decidimos utilizar un diseño con botones y textos grandes para que las personas con dificultades visuales puedan utilizarse sin inconvenientes.
+
+* Para las personas con discapacidades visuales, nuestra aplicación contará con un botón cuya función sería que mediante un comando de voz te vaya guiando con las distintas capas de nuestra aplicación.
+
+* Para poder esconder los datos sensibles, contamos con un inicio de sesión cuya funcionalidad sería poner una capa de seguridad para acceder a dichos datos.
 
 ## Encuesta para Requerimientos:
 
@@ -127,18 +137,38 @@ Definición del problema solución:
 # Planificacion de las Iteraciones <a name="id2"></a>
 ## Objeto Principal de cada Iteracion
 
+### Iteracion 1
+
+Para esta iteración no se pensó en un sprint backlog pensando en el cliente, sino en nosotros. Con esto me refiero que entendimos bien como funciona y se implementa la metodología ágil Scrum, creamos el repositorio en el cual vamos a trabajar, con sus respectivas estrategias de branching, etc.
+
+Sumando esto se pensó bien el product backlog, el armado del story map con sus respectivas conclusiones al respecto.
+
 ### Iteracion 2 
 
 * Arreglar bugs o errores de la Iteracion 1
 * Creacion de prototipos
 * Estimar la velocidad del equipo en cada tarea
+  
+### Iteracion 3 
+
+En esta iteración vamos a seguir con los prototipos interactivos para el cliente, además de analizar el feedback de cada uno y llevar a cabo los cambios necesarios.
+En esta iteración vamos a cambiar y mejorar errores de la iteración 2.
+
 
 ## Sprint Backlog
 
-![Sprint Backlog](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion02.JPG)
+### Iteracion 02
+
+![Sprint Backlog Iteracion 2](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion02.JPG)
+
+### Iteracion 03
+
+![Sprint Backlog Iteracion 3](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion03.JPG)
 
 ## Story Map
-![Story Map](EvidenciaDocumentacion/StoryMap/StoryMap_Iteraion02.JPG)
+![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.JPEG)
+
+Para ver el story maps de cada iteracion de forma detalla, ingresar a la carpeta "EvidenciaDocumentacion/StoryMap" 
 
 #  Inspeccion y adaptacion del proceso <a name="id3"></a>
 
@@ -158,21 +188,67 @@ Definición del problema solución:
 
 Para que no sobrecargar esta documentacion, la evidencia de la retrospectiva se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "Retrospectiva".
 
+#### Action Item 
+
+![Action Item Iteracion 02](EvidenciaDocumentacion/Retrospectiva/Iteracion02/Actions%20Item.png)
+
 # Seguimiento de las Iteraciones <a name="id4">
 
 ## Daily Scrum
-
-Para que no sobrecargar esta documentacion, la evidencia de las reuniones pertinentes se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "Reuniones".
 
 ### Segunda Iteracion
 
 #### Daily 1
 
-En esta reunion lo que hicimos fue avanzar con todo lo que nos habia quedado pendiente de la primera iteracion.
+*Lucas:* 
+
+En los días previos a esta daily empecé con mi tarea asignada que fue agregar la información faltante de la iteración 1.
+ 
+Como esta tarea era mejorar el formato o la justificación de algunos puntos, no tuve ningún inconveniente al realizar la misma.
+ 
+Los días siguientes a esta daily voy a seguir con mi tarea asignada.
+
+*Ignacio:*
+
+En estos días estuve estudiando la herramienta a usar para hacer los prototipos, por lo que estuve buscando la mejor opción me parece Frammer, es gratis y tiene bastante información para investigar.
+En estos días voy a ver como usar bien la herramienta así podemos empezar a usarla y hacer prototipos.
+Estuve trancado en los primeros pasos con Frammer pero con ayuda del equipo lo pudimos sacar adelante.
+
+*Agustin:*
+
+Como mi tarea era comparar los bocetos realizados por mis compañeros, primero tuve que esperar a que ellos completaran dicha tarea. Una vez que esto ocurrió, elegí por el que más se adapta a lo pensado previamente.
+
+Como esta no es una tarea que lleve mucho pienso, no tuve ninguna dificultad que me impidiera avanzar de manera correcta.
+
+*Felipe:* 
+
+En los días previos comencé a realizar la encuesta, organizar las preguntas a hacer y en donde y como hacerla. Tome la decisión de hacerlo en google forms porque es más sencillo de compartir y analizar los datos obtenidos.
+En estos días voy a seguir con las preguntas para poder terminarla.
+No me tranque en nada en esta tarea.
+
 
 ##### Daily 2
 
-En esta reunion lo que relizamos fueron los bocetos con sus prototipos en base a las respuestas de la encuesta realizada.
+*Lucas:* 
+
+Para esta segunda daily, como ya tenía todo encaminado, les mostré a mis compañeros los cambios realizados para obtener su aprobación.
+
+Una vez obtenida, hice el correspondiente pull request.
+
+*Ignacio:*
+
+En estos días arregle el formato de la entrega con las correcciones que nos dio la profesora, que básicamente fue sacar el formato de carpetas y llevar todo a un readme. También termine de estudiar la herramienta Frammer.
+Ahora estoy trancado ya que estoy esperando a que se recauden los suficientes datos en la encuesta para así poder analizarlos.
+En estos días voy a estar analizando los datos de la encuesta para asi poder terminar con esa parte. 
+
+*Agustin:*
+
+Una vez realizado los bocetos con su respectivo análisis, se discutio en el grupo si eran los más adecuados para posteriormente hacer los prototipos.
+
+*Felipe:* 
+
+Como ya había terminado mis tareas lo que hice fue mostrar mis cambios y avances a mi compañeros para así tener su feedback.
+Gracias a ese feedback cambie ciertas preguntas de la encuesta.
 
 ## Registro de Horas
 
@@ -187,6 +263,12 @@ En esta segunda iteracion tuvimos incovenientes en marcar las horas, por lo tant
 #  Repositorio del proyecto <a name="id5">
 
 Para que no sobrecargar esta documentacion, la evidencia de los commit de cada participante se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "CapturasCommit".
+
+## Estrategia de Branching
+
+Para tener una mejor organización, creamos 4 ramas, una para cada iteración. Además de estas está la rama principal, la rama main, dicha rama va a tener todos los cambios actualizados a la hora de finalizar cada iteración. Dichas actualizaciones serán a través de los pull request.
+
+Las ramas de las iteraciones, se irán borrando a medida que la iteración haya finalizado.
 
 # Definicion del problema solucion<a name="id6">
 
@@ -218,6 +300,10 @@ Para que no sobrecargar esta documentacion, la evidencia del product backlog se 
 - Listado de las líneas más cercanas al usuario con información del destino/origen/tiempo estimado, con la información de cantidad de pasajeros en las mismas.
 
 - Modo viaje. El usuario debe poder seguir el trayecto de la línea de ómnibus a la que se subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas hasta el próximo destino e información del destino.
+  
+- Pagar boleto desde la app
+
+- Modo para personas no videntes
 
  Notificaciones:
 
@@ -461,6 +547,19 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 
 ### Moovit
 
+![Moovit](EvidenciaDocumentacion/EstudioCompetidores/Moovit.JPG)
+
+#### Estudio Funcionalidades
+
+*  Tiene un filtro de paradas por origen y destino
+*  Tiene un filtrado por lineas de omnibus
+*  Tiene para guardar lugares o paradas favoritas
+*  Podemos pedir transporte privado (uber, cabify,etc)
+*  Tiene alertas/ notificaciones
+* Podes cambiar el idioma de la aplicación
+*  Podes utilizarla tanto en android como en iphone
+*  Podes iniciar sesión para acceder a determinadas funcionalidades
+  
 #### Cosas a Favor
 
 * Poder guardar los lugares favoritos a los que concurre
@@ -476,6 +575,20 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 * No tiene un horario en tiempo real que podemos verificar por donde se encuentra la línea
 
 ### Cómo ir
+
+![Moovit](EvidenciaDocumentacion/EstudioCompetidores/ComoIr.JPG)
+
+#### Estudio de Funcionalidades
+
+* Tiene distintos tipo de filtro, tanto como esquina o direccion, lugares de interés como otro, para hacer la búsqueda más precisa.
+  
+* Tiene un mapa el cual podemos poner la ubicación exacta a la que queremos ir.
+  
+* Se puede utilizar tanto en android como en iphone
+  
+* Tiene una bandeja de notificaciones
+  
+* Podes configurar la aplicación
 
 #### Cosas a Favor
 
@@ -495,6 +608,17 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 
 ### STM Montevideo
 
+![STM](EvidenciaDocumentacion/EstudioCompetidores/Stm.JPG)
+
+#### Estudio de Funcionalidades
+
+* Tiene un mapa
+  
+* Podes filtrar por paradas y por líneas
+  
+* Deja filtrar por domingos y feriados
+
+
 #### Cosas a Favor
 
 * Contiene un diseño simple pero funcional
@@ -506,6 +630,16 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 * Parece una versión en la cual no pasó por múltiples etapas de testing. Por lo tanto tiene varios errores de diseño.
 
 ### Cutcsa
+
+![Cutsa](EvidenciaDocumentacion/EstudioCompetidores/Cutsa.JPG)
+
+#### Estudio de Funcionalidades
+
+* Tiene un mapa que puedes filtrar por paradas
+  
+* Tenes tus favoritos, horarios y recorridos guardados en un historial
+  
+* Tenes un chat online para hacer consultas
 
 #### Cosas a Favor
 
@@ -530,6 +664,12 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 Este boceto fue pensado entre los 4 integrantes del equipo antes de realizar el prototipo final.
 
 ## Prototipos
+
+## Programa utilizado para prototipar
+
+Framer es una de las herramientas de creación de prototipos de aplicaciones más potentes del mercado. Se puede usar para diseñar cualquier dispositivo móvil, desde iOS a Android. Si conoces un poco de programación, sus capacidades son virtualmente ilimitadas porque está basada en CoffeeScript — un lenguaje de programación relativamente fácil. Un diseñador solo estaría limitado por su imaginación y habilidades de codificación.
+
+Link : https://www.framer.com/
 
 ## Pantalla Principal
 
