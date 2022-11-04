@@ -8,7 +8,7 @@
 3. [ Inspeccion y adaptacion del proceso](#id3)
 4. [Seguimiento de las Iteraciones](#id4)
 5. [Repositorio del proyecto](#id5)
-6. [Definicion del problema solucion](#id6)s
+6. [Definicion del problema solucion](#id6)
 7. [Encuesta para Requerimientos](#id7)
 8. [Identificación del problema a resolver](#id8)
 9. [Prototipos con posibles Soluciones](#id9)
@@ -157,6 +157,13 @@ En esta iteración vamos a cambiar y mejorar errores de la iteración 2.
 
 ## Sprint Backlog
 
+### Iteracion 01
+
+Para esta iteración no se pensó en un sprint backlog pensando en el cliente, sino en nosotros. Con esto me refiero que entendimos bien como funciona y se implementa la metodología ágil Scrum, creamos el repositorio en el cual vamos a trabajar, con sus respectivas estrategias de branching, etc.
+
+Sumando esto se pensó bien el product backlog, el armado del story map con sus respectivas conclusiones al respecto.
+
+
 ### Iteracion 02
 
 ![Sprint Backlog Iteracion 2](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion02.JPG)
@@ -169,6 +176,58 @@ En esta iteración vamos a cambiar y mejorar errores de la iteración 2.
 ![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.JPEG)
 
 Para ver el story maps de cada iteracion de forma detalla, ingresar a la carpeta "EvidenciaDocumentacion/StoryMap" 
+
+## Calculo de la velocidad del equipo
+
+### Iteracion 01
+
+Al no tener definido un sprint planning, para esta iteración no se realizó el cálculo de la velocidad del equipo.
+
+### Iteracion 02
+
+**Nomenclatura :** Stoty point (id de la user story)
+
+1) **Total de puntos completados** = 3(133)+3(140)+3(132)+5(144)+3(134)+5(89)+93(3)+3(141) = 28
+
+2) **Total de jornadas reales:**
+
+    (Son 4 iteraciones de 2 semanas cada una: 14 dias)
+
+    **Jornadas Ideales** = 14 +14 + 14 + 14 = 56 
+
+    **Jornadas Reales** = 10 + 10 + 8 +8 = 36
+
+    **Jornadas Peor Caso** = 1 + 1 + 1 + 1 = 4
+
+3) **Calculo de la Velocidad**
+   
+   * La velocidad es la división de los puntos completados y de las jornadas reales
+* 
+
+    V = 28 / 36 → V = 0,7 = 70 % 
+
+### Iteracion 03
+
+**Nomenclatura :** Stoty point (id de la user story)
+
+1) **Total de puntos completados** = 3(90) + 3(91) +3(92) + 3(93) + 8(94) + 3(95) + 5(96) + 5(97) + 8(99) + 5(146) + 5(158) = 51
+
+2) **Total de jornadas reales:**
+
+    (Son 4 iteraciones de 2 semanas cada una: 14 dias)
+
+    **Jornadas Ideales** = 14 +14 + 14 + 14 = 56 
+
+    **Jornadas Reales** = 12 + 12 + 10 + 10 = 44 
+
+    **Jornadas Peor Caso** = 1 + 1 + 1 + 1 = 4
+
+3) **Calculo de la Velocidad**
+   
+   * La velocidad es la división de los puntos completados y de las jornadas reales
+* 
+
+    V = 51 / 44 → V = 1,15 = 115 % 
 
 #  Inspeccion y adaptacion del proceso <a name="id3"></a>
 
@@ -188,9 +247,31 @@ Para ver el story maps de cada iteracion de forma detalla, ingresar a la carpeta
 
 Para que no sobrecargar esta documentacion, la evidencia de la retrospectiva se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "Retrospectiva".
 
-#### Action Item 
+## Action Item 
+
+### Iteracion 02
 
 ![Action Item Iteracion 02](EvidenciaDocumentacion/Retrospectiva/Iteracion02/Actions%20Item.png)
+
+### Iteracion 3
+
+* Utilizar más el grupo de Teams con la profesora por cualquier inquietud o duda que tengamos.
+
+* Concurrir más a las ayudantías
+
+* Tratar de juntarnos los 4 miembros del equipo todos los días, aunque sea poco tiempo 
+  
+## Medicion Acions Item  
+
+### Iteracion 02
+
+1- Pudimos organizar mejor el trabajo, realizando sesiones personales donde cada uno trabaja en sus task asignadas y luego las discutimos en conjunto en las dailys.
+
+2- Recurrimos a grabaciones de clases anteriores para resolver dudas, si no podíamos con eso recién ahí buscábamos en internet.
+
+3- Hicimos un google calendar todos juntos con los horarios de los integrantes del equipo para poder organizar mejor las sesiones.
+
+4-  Todos pusimos recordatorios en nuestros celulares para marcar las horas de trabajo.
 
 # Seguimiento de las Iteraciones <a name="id4">
 
@@ -250,15 +331,76 @@ Una vez realizado los bocetos con su respectivo análisis, se discutio en el gru
 Como ya había terminado mis tareas lo que hice fue mostrar mis cambios y avances a mi compañeros para así tener su feedback.
 Gracias a ese feedback cambie ciertas preguntas de la encuesta.
 
+### Tercera Iteracion
+
+#### Daily 1 
+
+*Lucas:*
+
+Estuve arreglando los probelmas de la iteracion pasada. Avnace con las tareas asignadas para dicha user story.
+
+*Ignacio:*
+
+Arregle los errores cometidos en la segunda iteracion, no tuve ningun incoveninte con dichas tareas. En los dias posteriores seguire con esto.
+
+*Agustín:*
+
+Hice parte de mis prototipos asignados, me comunique con Felipe para corroborar estilos de ciertas vistas de la app. En estos días tengo pensado seguir con esto. Estuve trancado con un prototipo pero ya resolví el conflicto.
+
+*Felipe:*
+
+Adelante con mis prototipos, ayude a Agustin con problemas que tuvo además estuve investigando sobre formas de hacer la app más inclusiva para personas ciegas. En estos días tengo pensado terminar con mis prototipos
+
+#### Daily 2
+
+*Lucas:*
+
+Termine de hacer mi parte de las tareas de la correcion de errores.
+
+*Ignacio:*
+
+Termine de hacer las tareas asignadas para esta iteracion..
+
+*Agustín y Felipe:*
+
+Hicimos todos los prototipos pedidos.
+
+## BurdownChart
+
+### Iteracion03
+
+![BurnDown_Iteracion03](EvidenciaDocumentacion/Otras/BurnDownChart_Iteracion03.png)
+
+
 ## Registro de Horas
 
 Para que no sobrecargar esta documentacion, la evidencia del registro de horas de cada participante se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "RegistroHoras".
 
 En esta segunda iteracion tuvimos incovenientes en marcar las horas, por lo tanto van a aparecer tareas sin sus respectivas horas.
 
-## Iteraciones
+### Iteracion 02
 
-![Story Map](EvidenciaDocumentacion/RegistroHoras/Retros/Iteracion02.png)
+| Persona             | Horas | Actividades Realizadas (Id de la task)|
+| ------------------- | ----- |---------------------------------------|
+| Lucas               | 3.16  | #50                                   |
+| Ignacio             | 4.10  | #43, #49, #59                         |
+| Felipe              | 3.21  | #40                                   |
+| Agustin             | 1.52  | #39, #55, #57                         |
+
+### Iteracion 03
+
+| Persona             | Horas | Actividades Realizadas (Id de la task)|
+| ------------------- | ----- |---------------------------------------|
+| Lucas               | 2:28  |  #149, #150, # 151                    |
+| Ignacio             | 4:59  |  #147, #148, #166                     |
+| Felipe              | 4.15  |  #116, #113, #119, #127, #162         |
+| Agustin             | 3.48  |  #112, #118, #123, #160               |
+
+Dentro de la carpeta EvidenciaDocumentacion/RegistroHoras/Iteracion03 pueden encontrar sub carpetas con el nombre de cada integrante del equipo. Dentro de dichas carpetas encontraran un PDF por cada integrante que el mismo contiene las horas marcadas con la herramienta Toggl y las horas marcadas en Azure Devops con sus respectivas estimaciones.
+  
+## Retros
+
+![Retro](EvidenciaDocumentacion/RegistroHoras/Retros/Iteracion02.png)
 
 #  Repositorio del proyecto <a name="id5">
 
@@ -269,6 +411,8 @@ Para que no sobrecargar esta documentacion, la evidencia de los commit de cada p
 Para tener una mejor organización, creamos 4 ramas, una para cada iteración. Además de estas está la rama principal, la rama main, dicha rama va a tener todos los cambios actualizados a la hora de finalizar cada iteración. Dichas actualizaciones serán a través de los pull request.
 
 Las ramas de las iteraciones, se irán borrando a medida que la iteración haya finalizado.
+
+![Git](EvidenciaDocumentacion/Otras/EstructuraGit.png)
 
 # Definicion del problema solucion<a name="id6">
 
@@ -671,12 +815,14 @@ Framer es una de las herramientas de creación de prototipos de aplicaciones má
 
 Link : https://www.framer.com/
 
-## Pantalla Principal
+## Acceso a la Aplicacion
 
-![Pantalla Principal](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.jpeg)
+Para poder acceder a la aplicacion de manera dinamica, pueden acceder al siguente link.
 
-## Inicio Sesion
+Link: 
 
-![Inicio Sesion](EvidenciaDocumentacion/Prototipos/InicioSesion.jpeg)
+## Capturas de Prototipos
+
+Para no llenar el documento con imagenes, las capturas de todos los prototipos se encuentran en la carpeta : EvidenciaDocumentacion/Prototipos
 
 # Ispeccion y Adaptacion del Producto<a name="id10">
