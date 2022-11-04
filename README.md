@@ -173,7 +173,8 @@ Sumando esto se pensó bien el product backlog, el armado del story map con sus 
 ![Sprint Backlog Iteracion 3](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion03.JPG)
 
 ## Story Map
-![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.JPEG)
+
+![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.jpeg)
 
 Para ver el story maps de cada iteracion de forma detalla, ingresar a la carpeta "EvidenciaDocumentacion/StoryMap" 
 
@@ -819,8 +820,7 @@ Link : https://www.framer.com/
 
 Para poder acceder a la aplicacion de manera dinamica, pueden acceder al siguente link.
 
-Link: 
-
+Link: https://standards-rob-722613.framer.app 
 ## Capturas de Prototipos
 
 Para no llenar el documento con imagenes, las capturas de todos los prototipos se encuentran en la carpeta : EvidenciaDocumentacion/Prototipos
