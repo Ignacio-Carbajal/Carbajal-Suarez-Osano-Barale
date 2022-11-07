@@ -26,31 +26,47 @@ Este marco de trabajo nos permite organizarnos de una mejor forma utilizando ite
 
 Scrum nos permite trabajar de una forma mas unida y organizada generando retroalimentación de una manera constante al realizar reuniones diarias entre los miembros del equipo y reuniones con el product owner obteniendo un feedback sobre el trabajo realizado.
 
-## Sprint planing
-
-Al comienzo de cada sprint definimos que tareas hacer para la iteración.
-
+## Sprint planning
+ 
+Al comienzo de cada sprint definimos qué tareas hacer para la iteración.
+ 
 Estas tareas fueron discutidas una vez que estuvo bien definido el backlog.
-
-Al realizar el sprint planning al comienzo de la iteración, ganamos que cada miembro del equipo sepa y tenga en cuenta las tareas relevantes a realizar en dicha iteración.
-
+ 
+El Scrum master (Lucas) es el encargado de organizar las sesión (de aproximadamente una hora) y en ella debe estar presente todo el equipo de Scrum, Scrum master, Product Owner (Ignacio) y los developers (Agustin y Felipe).
+En esta sesión vamos a planificar que es lo que vamos a hacer durante el sprint y cómo lo vamos a hacer.
+ 
+ 
 ## Daily Scrum
-
+ 
 Esta es una reunión diaria del equipo que se usa en este marco de trabajo.
-
+ 
 Por diferencia de horario y por no tener avances todos los días decidimos estar comunicados por mensajes y juntarnos cuando sea necesario.
-
-Lo que ganamos es que todos participemos de la reunión, ya que si se realiza en otro formato no es garantía de que todos los miembros del equipo estén presentes.
-
+ 
+Durante el daily scrum, cada miembro del equipo responde las siguientes 3 preguntas:
+ 
+* ¿Qué hiciste ayer?
+* ¿Qué harás hoy?
+* ¿Hay impedimentos tuvimos?
+ 
+Al enfocarse en lo que cada miembro del equipo hizo ayer y hará hoy, el equipo gana una visión general de lo que se ha realizado y aquello que falta por realizar.
+ 
 ## Sprint Review
-
+ 
+El Sprint Review es la reunión que ocurre al final del Sprint, generalmente el último viernes del Sprint, donde el product owner y el Develpment Team presentan a los stakeholders el incremento terminado para su inspección y adaptación correspondientes. En esta reunión organizada por el product owner se estudia cuál es la situación y se actualiza el Product Backlog con las nuevas condiciones que puedan afectar al negocio.
+ 
 Al finalizar cada sprint vamos a realizar esta reunión para identificar aspectos positivos y negativos sobre el trabajo realizado. En este tipo de reunión se estudia cual es la situación junto al product owner y en base a eso se actualiza el product backlog con las nuevas condiciones.
-
-Lo que ganamos en dicha reunión es no cometer los mismos errores de iteraciones pasadas y volver a organizar futuras iteraciones.
-
+ 
+ 
 ## Retrospectiva
+ 
+Esta reunión se hace después del Sprint Review y el objetivo es reflexionar sobre el último sprint e identificar posibles mejores para el próximo.
+ 
+La retrospectiva ocurre al final del Sprint, justo después del Sprint Review. En algunos casos y por comodidad de los equipos, se realiza conjuntamente con el Sprint Planning, siendo la retrospectiva la parte inicial de la reunión.
+ 
+El objetivo de la retrospectiva es hacer de reflexión sobre el último Sprint e identificar posibles mejoras para el próximo. Aunque lo habitual es que el Scrum Master sea el facilitador, es normal que distintos miembros del equipo Scrum vayan rotando el rol de facilitador durante la retrospectiva.
+ 
+Un formato común es analizar qué ha ido bien durante el Sprint, qué ha fallado y qué se puede mejorar. Este formato se puede facilitar pidiendo a los miembros del equipo Scrum que escriban notas –en post-its- para luego agruparlas y votar aquellos ítems más relevantes, dando la oportunidad a todos de hablar y expresar sus inquietudes.
 
-Esta reunión se hace después del Sprint Review y el objetivo es reflexionar sobre el ultimo sprint e identificar posibles mejores para el próximo.
 
 ## Roles
 
@@ -205,7 +221,12 @@ Al no tener definido un sprint planning, para esta iteración no se realizó el 
    * La velocidad es la división de los puntos completados y de las jornadas reales
 * 
 
-    V = 28 / 36 → V = 0,7 = 70 % 
+    V = 28 / 36 → V = 0,7 = 70% 
+
+| Iteración | Velocidad |
+| --------- | -------- |
+| 1         |   -      |
+| 2         | 70%      |
 
 ### Iteracion 03
 
@@ -229,6 +250,44 @@ Al no tener definido un sprint planning, para esta iteración no se realizó el 
 * 
 
     V = 51 / 44 → V = 1,15 = 115 % 
+
+   | Iteración | Velocidad |
+| --------- | -------- |
+| 1         |   -      |
+| 2         | 70%      | 
+| 3         | 115%     |
+
+
+Si bien mejoramos la Velocidad en tanto adaptamos el proceso, entendemos que esta métrica no es fiel a la realidad, siendo que en la adaptación del proceso reestimamos las historias de usuario con el criterio de Fibonacci. Por tanto, las historias de usuario pertenecientes a la iteración 2 fueron realizadas con distinto criterio al nuevo.
+
+
+### Iteracion 04
+
+**Nomenclatura :** Stoty point (id de la user story)
+
+1) **Total de puntos completados** = 
+
+2) **Total de jornadas reales:**
+
+    (Son 4 iteraciones de 2 semanas cada una: 14 dias)
+
+    
+
+3) **Calculo de la Velocidad**
+   
+   * La velocidad es la división de los puntos completados y de las jornadas reales
+* 
+
+    V = 
+
+   | Iteración | Velocidad |
+| --------- | -------- |
+| 1         |   -      |
+| 2         | 70%      | 
+| 3         | 115%     |
+| 4         |          |
+
+*agregar comentario*
 
 #  Inspeccion y adaptacion del proceso <a name="id3"></a>
 
