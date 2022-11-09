@@ -57,7 +57,7 @@ El Sprint Review es la reunión que ocurre al final del Sprint, generalmente el 
 Al finalizar cada sprint vamos a realizar esta reunión para identificar aspectos positivos y negativos sobre el trabajo realizado. En este tipo de reunión se estudia cual es la situación junto al product owner y en base a eso se actualiza el product backlog con las nuevas condiciones.
  
  
-## Retrospectiva
+##  Sprint Retrospectiva
  
 Esta reunión se hace después del Sprint Review y el objetivo es reflexionar sobre el último sprint e identificar posibles mejores para el próximo.
  
@@ -97,6 +97,18 @@ Se tomó la decisión de elegir a Felipe y Agustín como los Developers del equi
 Son creativos, algo necesario para poder plasmar lo que el producto backlog exige.
 
 Saben trabajar en equipo, se adaptan a los cambios y gestionan bien el tiempo.
+
+## Adaptaciones principales al marco SCRUM
+
+* Una de las principales adaptaciones es el tema de las reuniones o Dailys, Scrum recomienda que dichas Dailys se realicen todos los días con una duración de 15 minutos cada una.
+
+Al no tener el tiempo necesario para aplicar al pie de la letra lo que nos recomienda Scrum, vamos a realizar las Dailys por medio de mensajes a través de wpp o el canal de team. A su vez, cuando se pueda y todos los participantes estén disponibles, haremos una puesta a punto a través de una videollamada. 
+
+* Scrum recomienda que el equipo tenga en total 5 integrantes con roles bien definidos, en este caso al ser un equipo de 4 personas, adaptamos el marco de manera que todos los integrantes cumplamos la función de programadores (Development Team)
+
+* La metodología Scrum recomienda trabajos presenciales, pero debido a la disponibilidad horaria del equipo y el lugar de residencia de cada uno, esto se hizo imposible, por lo que optamos por hacer las reuniones en formato 100% virtual. 
+
+* Adaptamos las retros a una 1 hora como máximo por lo comentado en puntos anteriores, la disponibilidad horaria de los integrantes del equipo era muy acotada.
 
 ## Definition of Ready
 
@@ -193,6 +205,32 @@ Sumando esto se pensó bien el product backlog, el armado del story map con sus 
 ![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.jpeg)
 
 Para ver el story maps de cada iteracion de forma detalla, ingresar a la carpeta "EvidenciaDocumentacion/StoryMap" 
+
+### Conclusiones Story Map (Objetivo de cada Iteracion)
+
+#### Iteracion 02
+
+* Estudio de las herramientas a usar para prototipar, marcar las horas y cualquier otra cosa que necesitemos para realizar el obligatorio.
+  
+* Encuestas para recaudar información.
+  
+* Comparar bocetos hechos a mano con la información obtenida de las encuestas y analizar características para así después hacer los prototipos en Frammer.
+  
+* Crear ciertos prototipos que vamos a elegir juntos con los Developers, dejando así los otros para la siguiente iteración.
+
+#### Iteración 03
+
+* Como en la iteración pasada ya realizamos algunos prototipos y se entendió el uso de la herramienta, en esta iteración el principal objetivo es terminar de prototipar todas las funcionalidades pedidas.
+
+* Otro de los objetivos, es ir corrigiendo los errores marcados en la iteración anterior.
+
+#### Iteración 04
+
+* Para esta iteración el objetivo principal es realizar el video demostrativo de la aplicación. Mostrando en el mismo todos los prototipos realizados.
+
+* Además del video, se realizará un informe académico, detallando lo aprendido a lo largo del todo el proyecto. Agregando en el mismo las conclusiones de cada miembro del equipo.
+
+* Como en todas las iteraciones pasadas, se arreglan los errores cometidos en iteraciones anteriores.
 
 ## Calculo de la velocidad del equipo
 
@@ -305,25 +343,14 @@ Si bien mejoramos la Velocidad en tanto adaptamos el proceso, entendemos que est
 
 ### Iteracion 2 
 
-Para que no sobrecargar esta documentacion, la evidencia de la retrospectiva se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "Retrospectiva".
+![Retro_Iteracion02](EvidenciaDocumentacion/Retrospectiva/Iteracion02/Todo_Junto.png)
 
-## Action Item 
-
-### Iteracion 02
+#### Action Item de la Iteracion 02
 
 ![Action Item Iteracion 02](EvidenciaDocumentacion/Retrospectiva/Iteracion02/Actions%20Item.png)
 
-### Iteracion 3
 
-* Utilizar más el grupo de Teams con la profesora por cualquier inquietud o duda que tengamos.
-
-* Concurrir más a las ayudantías
-
-* Tratar de juntarnos los 4 miembros del equipo todos los días, aunque sea poco tiempo 
-  
-## Medicion Acions Item  
-
-### Iteracion 02
+#### Medicion Acions Item de la Iteracion 02
 
 1- Pudimos organizar mejor el trabajo, realizando sesiones personales donde cada uno trabaja en sus task asignadas y luego las discutimos en conjunto en las dailys.
 
@@ -332,6 +359,29 @@ Para que no sobrecargar esta documentacion, la evidencia de la retrospectiva se 
 3- Hicimos un google calendar todos juntos con los horarios de los integrantes del equipo para poder organizar mejor las sesiones.
 
 4-  Todos pusimos recordatorios en nuestros celulares para marcar las horas de trabajo.
+
+
+### Iteracion 3
+
+![Retro_Iteracion02](EvidenciaDocumentacion/Retrospectiva/Iteracion03/TodoJunto.JPG)
+
+#### Actions Item de la Iteracion 03
+
+* Utilizar más el grupo de Teams con la profesora por cualquier inquietud o duda que tengamos.
+
+* Concurrir más a las ayudantías.
+
+* Tratar de juntarnos los 4 miembros del equipo todos los días, aunque sea poco tiempo. 
+
+#### Medicion Acions Item de la Iteracion 03  
+
+1- Como se marcó en los actions Ítem de la iteración 03, una de las mejores era el uso del canal de Teams para verificar información y tratar de minimizar los errores a cometer, tanto de la parte de documentación como en la parte de realización de prototipos.
+
+Esto se cumplió como se esperaba, ya que a la mínima duda o inconveniente que surge, nos comunicamos inmediatamente con los docentes a través del canal de comunicación referido anteriormente.
+
+2- Con el tema de la ayudantías  no se cumplió como se esperaba, preferimos priorizar el punto anterior antes que las ayudantías. Esta fue una eleccion del equipo.
+
+3- Al igual que el punto anterior, nuestra intención era juntarnos de manera presencial 1 vez por semana. Esto no fue una buena elección de mejora, ya que por tema de tiempos y distancias nos resultó casi imposible coordinar horario y lugar de encuentro.
 
 # Seguimiento de las Iteraciones <a name="id4">
 
@@ -427,10 +477,23 @@ Hicimos todos los prototipos pedidos.
 
 ## BurdownChart
 
+### Iteracion 01
+
+Al no tener un Product Backlog bien definido, es decir, con las story maps y las tareas en asigandas a cada historia, no se pudo realizar el BurdownChart esperado. 
+
+### Iteracion 02
+
+Al no tener un Product Backlog bien definido, es decir, con las story maps y las tareas en asigandas a cada historia, no se pudo realizar el BurdownChart esperado. 
+
 ### Iteracion03
 
 ![BurnDown_Iteracion03](EvidenciaDocumentacion/Otras/BurnDownChart_Iteracion03.png)
 
+#### Conclusiones
+
+* Como se puede observar en el gráfico la asignación de historias con sus tareas para esta iteración fueron realizadas 3 días después del comienzo de dicha iteración.
+ 
+* El gráfico muestra que no se realizó con todas las historias planificadas para esta iteración. Esto se ve reflejado en como la parte final del gráfico no desemboca en el eje de las x. Esto se da ya que dichas historias no completadas no fueron marcadas como "Closed" en el Azure Devops.
 
 ## Registro de Horas
 
@@ -447,6 +510,11 @@ En esta segunda iteracion tuvimos incovenientes en marcar las horas, por lo tant
 | Felipe              | 3.21  | #40                                   |
 | Agustin             | 1.52  | #39, #55, #57                         |
 
+* Ignacio y Lucas al ser el Product Owner y el Scrum Master respectivamente, se encargaron de corregir los errores tanto en la parte de la documentación como en el uso  correcto de la metodología Scrum.
+
+* Por otro lado Felipe y Agustín al ser los Development Team, estuvieron a cargo de realizar los bocetos y posteriores prototipos de la aplicación. 
+
+
 ### Iteracion 03
 
 | Persona             | Horas | Actividades Realizadas (Id de la task)|
@@ -455,6 +523,9 @@ En esta segunda iteracion tuvimos incovenientes en marcar las horas, por lo tant
 | Ignacio             | 4:59  |  #147, #148, #166                     |
 | Felipe              | 4.15  |  #116, #113, #119, #127, #162         |
 | Agustin             | 3.48  |  #112, #118, #123, #160               |
+
+
+Como se puede observar en la tabla mostrada, las tareas de cada integrante sigue siendo la misma con la diferencia que los desarrolladores tienen más horas de trabajo, esto se debe a que los prototipos en esta iteración fueron muchos más comparados a la iteración anterior.
 
 Dentro de la carpeta EvidenciaDocumentacion/RegistroHoras/Iteracion03 pueden encontrar sub carpetas con el nombre de cada integrante del equipo. Dentro de dichas carpetas encontraran un PDF por cada integrante que el mismo contiene las horas marcadas con la herramienta Toggl y las horas marcadas en Azure Devops con sus respectivas estimaciones.
   
@@ -471,6 +542,10 @@ Para que no sobrecargar esta documentacion, la evidencia de los commit de cada p
 Para tener una mejor organización, creamos 4 ramas, una para cada iteración. Además de estas está la rama principal, la rama main, dicha rama va a tener todos los cambios actualizados a la hora de finalizar cada iteración. Dichas actualizaciones serán a través de los pull request.
 
 Las ramas de las iteraciones, se irán borrando a medida que la iteración haya finalizado.
+
+Cada iteración contará con un readme.md, dicho documento se irá actualizando a medida que las tareas de documentación propuestas vayan finalizando. 
+
+Cuando sea el momento de entregar o finalizar la iteración, se actualiza los cambios aplicados al readme.md de la rama main a través de un PR.
 
 ![Git](EvidenciaDocumentacion/Otras/EstructuraGit.png)
 
