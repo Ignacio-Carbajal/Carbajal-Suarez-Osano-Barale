@@ -383,7 +383,9 @@ Esto se cumplió como se esperaba, ya que a la mínima duda o inconveniente que 
 
 3- Al igual que el punto anterior, nuestra intención era juntarnos de manera presencial 1 vez por semana. Esto no fue una buena elección de mejora, ya que por tema de tiempos y distancias nos resultó casi imposible coordinar horario y lugar de encuentro.
 
-# Seguimiento de las Iteraciones <a name="id4">
+
+
+# Seguimiento de las Iteraciones <a name="id4"></a>
 
 ## Daily Scrum
 
@@ -533,7 +535,7 @@ Dentro de la carpeta EvidenciaDocumentacion/RegistroHoras/Iteracion03 pueden enc
 
 ![Retro](EvidenciaDocumentacion/RegistroHoras/Retros/Iteracion02.png)
 
-#  Repositorio del proyecto <a name="id5">
+#  Repositorio del proyecto <a name="id5"></a>
 
 Para que no sobrecargar esta documentacion, la evidencia de los commit de cada participante se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "CapturasCommit".
 
@@ -549,11 +551,40 @@ Cuando sea el momento de entregar o finalizar la iteración, se actualiza los ca
 
 ![Git](EvidenciaDocumentacion/Otras/EstructuraGit.png)
 
-# Definicion del problema solucion<a name="id6">
+# Definicion del problema solucion<a name="id6"></a>
 
 ## Product Backlog 
 
-Para que no sobrecargar esta documentacion, la evidencia del product backlog se encuentra en una caepta aparte. Esta se puede encontrar en la carepata llamada "EvidenciaDocumentacion" dentro de la sub carpeta "ProductBacklog".
+![PB](EvidenciaDocumentacion/ProductBacklog/ProductBacklog.JPG)
+
+### User Stories:
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/buscarLineaBondi.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/compartirMiViaje.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/comprarBoletos.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/CreacionVideo.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/editarUsuario.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/historiaUltimosViajes.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/listadoLineasCercanas.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/login.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/modoViaje.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/notificaciones.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/personasNoVidentes.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/registrarUsuario.png)
+
+![PB](EvidenciaDocumentacion/ProductBacklog/UserStory/restaurarContra.png)
+
 
 ## Funcionalidades a reliazar en la Aplicacion 
 - Registrar nuevo usuario
@@ -580,9 +611,6 @@ Para que no sobrecargar esta documentacion, la evidencia del product backlog se 
 
 - Modo viaje. El usuario debe poder seguir el trayecto de la línea de ómnibus a la que se subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas hasta el próximo destino e información del destino.
   
-- Pagar boleto desde la app
-
-- Modo para personas no videntes
 
  Notificaciones:
 
@@ -601,6 +629,20 @@ Para que no sobrecargar esta documentacion, la evidencia del product backlog se 
 Compartir mi viaje con otro usuario (se comparte el viaje con otro usuario para que vea el recorrido del ómnibus en tiempo real)
 
  Historias de los últimos viajes (líneas de ómnibus utilizadas).
+
+## Funcionalidades de valor agregado de la aplicacion: 
+
+- Pagar boleto desde la app
+
+- Modo para personas no videntes
+
+Después de analizar los datos de la encuesta, sacamos la conclusión que estas dos nuevas funcionalidades podrían darle un valor agregado extra a la aplicación.
+En el proceso de ingeniería inversa aplicado en las aplicaciones de transporte no estaban implementadas las funcionalidades que nosotros le damos valor a nuestro proyecto. 
+
+La funcionalidad de pagar el boleto del transporte desde el celular tuvo un feedback muy positivo, la principal causa es la facilidad de pagarlo con un dispositivo que todos tenemos a disposicion, ademas de esto, hay casos que no dispones de efectivo en la billetera y esto ayuda a resolver este tipo de situaciones. 
+
+El modo no vidente fue hecho pensando en las personas que sufren de algún tipo de discapacidad visual. Para realizar esta nueva funcionalidad nos basamos en el asistente por voz de Google, el cual nos permite “comunicarte” a la aplicación a través de un comando por voz y que este haga en la aplicación lo que vos le solicitaste.
+
 
 ## Historias de Usuario
 
@@ -741,7 +783,7 @@ Vamos a hacer una aplicación que sea enfocada con personas con este tipo de dis
 **Productos y servicios:**
 Vamos a poner un botón en la esquina superior derecha de la pantalla para que la aplicación le avise al usuario lo que está en pantalla mediante comando de voz. De esta forma la persona puede usar la aplicación.
 
-# Encuesta para Requerimientos<a name="id7">
+# Encuesta para Requerimientos<a name="id7"></a>
 
 Viendo las respuestas podemos afirmar lo que suponíamos, que la edad promedio a la que están enfocadas este tipo de aplicaciones es la de un publico joven, el cual hace uso de aplicaciones de transporte para obtener información sobre el mismo.
 A grandes rasgos la encuesta fue beneficiosa, pudiendo reafirmar suposiciones que manejábamos en el equipo. De esta forma estamos seguros de lo que quiere nuestro publico y el valor característico que le podemos dar a nuestra aplicación.
@@ -750,7 +792,7 @@ Comentario: Si desean podemos invitarlas a la encuesta para que puedan validar l
 
 Link de la encuesta: https://forms.gle/jxA5P3j2d6FK1e956
 
-# Identificación del problema a resolver <a name="id8">
+# Identificación del problema a resolver <a name="id8"></a>
 
 ## Identificación de interesados
 
@@ -934,7 +976,7 @@ A continuación vamos a detallar el estudio de las competencias, comentando los 
 
 * Solamente podes ver la ubicación en tiempo real de los ómnibus de la empresa Cutcsa.
 
-# Prototipos con posibles Soluciones<a name="id9">
+# Prototipos con posibles Soluciones<a name="id9"></a>
 
 ## Bocetos Previos
 
@@ -957,6 +999,65 @@ Para poder acceder a la aplicacion de manera dinamica, pueden acceder al siguent
 Link: https://standards-rob-722613.framer.app 
 ## Capturas de Prototipos
 
-Para no llenar el documento con imagenes, las capturas de todos los prototipos se encuentran en la carpeta : EvidenciaDocumentacion/Prototipos
 
-# Ispeccion y Adaptacion del Producto<a name="id10">
+### Historial:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/BuscarLineas.JPG)
+Dicha funcionalidad sería mostrar por pantalla los últimos viajes que realizó el usuario por si quiere repetir algún trayecto, no debe ingresar nuevamente todos los datos.
+
+### Buscar Paradas:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.JPG)
+Este prototipo es la funcionalidad principal de la aplicación, sufuncion es marcar un lugar de destino y otro de origen, y la aplicación estudia dicho trayecto en nos devuelve una lista de ómnibus disponibles que poder tomar con sus respectivo arriba a la parada de origen.
+
+### Cambiar Contraseña:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CambiarContrase%C3%B1a.JPG)
+Su funcionalidad sería cambiar la contraseña del inicio de sesión.
+
+### Compartir viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CompartirViaje.JPG)
+Si yo quiero que una persona se suba al mismo ómnibus que yo, se encuentra la función compartir mi viaje. Se comparte el link por medio de cualquier red social en la cual el usuario tiene una cuenta asociada.
+
+### Configuraciones:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Configuraciones.JPG)
+Aca hay varias funcionalidades de la aplicación:
+
+- Podemos acceder a la pantalla de cambiar mi contraseña
+- Podemos cerrar la sesión del usuario logueado
+- Podemos sincronizar la tarjeta STM para poder pagar el viaje desde la app 
+
+### Home:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Home.JPG)
+Esta es la pantalla principal de la aplicación, cuando ingresamos a la aplicación nos va a pedir un usuario y contraseña para acceder a sus funcionalidades.
+
+Si no contamos con una cuenta, nos lleva a la vista para efectivamente crearnos una.
+
+### Modo viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ModoViaje.JPG)
+En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
+subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
+hasta el próximo destino e información del destino.
+
+### Modo viaje #2 :
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ModoViaje2.JPG)
+En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
+subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
+hasta el próximo destino e información del destino.
+
+### Notificaciones:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Notificaciones.JPG)
+Se notifica al usuario sobre cambios de líneas o arribo a las paradas favoritas.
+
+### Parada favoritas:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ParadasFavoritas.JPG)
+El usuario puede registrar paradas favoritas para poder acceder más fácilmente a sus líneas de mayor uso. 
+
+### Registrar usuarios:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RegistarUsuario.JPG)
+Para acceder a las funcionalidades de la aplicación precisamos si o si un usuario. Si la persona que quiere utilizar la app no cumple dicho requisito principal, tenemos esta pantalla para que pueda ingresar sus datos personales y así poder crearse una nueva cuenta. 
+
+### Restaurar Contraseña:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RestaurarContrase%C3%B1a.JPG)
+En esta funcionalidad podemos ingresar el mail del usuario para restaurar su contraseña.
+
+# Ispeccion y Adaptacion del Producto<a name="id10"></a>
+
+aca van las validaciones de los prototipos
