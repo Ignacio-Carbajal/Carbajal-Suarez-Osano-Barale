@@ -1060,4 +1060,75 @@ En esta funcionalidad podemos ingresar el mail del usuario para restaurar su con
 
 # Ispeccion y Adaptacion del Producto<a name="id10"></a>
 
-aca van las validaciones de los prototipos
+Se escribirá detalladamente en análisis del feedback de las vistas de los prototipos que recibieron alguna crítica y/o petición de mejora, las que no tuvieron puntos negativos no serán analizados los feedback.
+Además de que hubo peticiones de cambio sobre características que no podemos modelar en un prototipo, como, por ejemplo, manejo de datos y características sobre la seguridad entre otros; este tipo de peticiones no fueron tomadas a cabo. 
+
+## Registrar Nuevo Usuario
+
+Una de las respuestas que obtuvimos de las encuestas fue poder registrarse con una cuenta de Google, Outlook, etc. Esto sería de gran ayuda al usuario al momento de poder registrarse ya que es un proceso mucho más dinámico y rápido. 
+
+La gran mayoría de la gente que probó la aplicación no tuvo mayor inconveniente en encontrar esta funcionalidad y su posterior uso. Por lo tanto podemos asumir que la misma es entendible para el público en general y no esconde una gran ingeniería en la cual el usuario debe entender para utilizarla. 
+
+
+## Editar Usuario:
+
+•	“Solo se puede editar la contraseña”
+•	“Cuando aprietas en sincronizar con STM el usuario espera que le diga o haga algo haciéndole saber que se está sincronizando”
+
+El primero es un bug para resolver, el segundo es una corrección que nos ayuda a cambiar algo que esta mal, debemos de mostrar un mensaje o algún tipo de alerta el cual notifique al usuario que su tarjeta STM fue sincronizada con el celular. 
+Analizando la grafica se puede observar que la gran mayoría de las personas estuvo de acuerdo con esta sección, sin contar los 3 casos que no le gustaron por las razones explicadas arriba.
+
+
+## Restaurar Contraseña
+
+El prototipo no permite escribir más caracteres que, por lo tanto hay que sacarle que el campo tenga un mínimo de caracteres. 
+
+Así el usuario puede cambiar sin restricciones los datos pertinentes. 
+
+
+## Buscar línea de ómnibus utilizando filtros:
+
+•	“Buenísima la opción de ómnibus inclusivo para personas en silla de ruedas. Estaría bueno que la primera imagen del mapa que aparece por defecto sea en Montevideo, y no en Ámsterdam.”
+
+Hay que cambiar que el mapa por defecto sea Ámsterdam y poner uno de Montevideo.
+Analizando la gráfica una gran mayoría de las personas se mostro satisfactorias al uso de esta vista.
+
+## Modo Viaje
+
+Observando la encuesta podemos observar que mucha gente no encontró o no entendió la funcionalidad. Esto es un aspecto a mejorar ya que es una funcionalidad super importante en nuestra aplicación.
+
+
+## Historia de los últimos viajes:
+
+•	“lo podria en una sección aparte para que no quede todo junto”
+
+Hay que tratar de sacarlo para otra vista, en donde solo se muestre eso solo, en un principio lo habíamos hecho así, pero tomamos la decisión de dejarlo en esa sección nada mas para poder aprovechar el espacio de las otras vistas y no sobrecargar a la aplicación con muchas pantallas diferentes.
+
+Analizando la gráfica una gran mayoría de las personas se mostró satisfactorias al uso de esta vista.
+
+## Notificaciones
+
+A la gente le resultó difícil encontrar el icono de las notificaciones, ya que se encontraba en un lugar poco accesible o el icono no reflejaba la intención de la funcionalidad. 
+
+No existe el botón para volver al inicio desde la funcionalidad de notificaciones. Esto sería importante agregarlo ya que el usuario tiene que volver a cerrar la app para acceder al inicio de la misma.
+
+## Compartir mi viaje.
+
+•	“Al no encontrar el modo viaje no pude compartir el viaje”
+•	“No pude acceder a compartir mi viaje”
+
+Un feedback que se repitió mucho fue el de no encontrar con facilidad esta opción, o directamente no encontrarla, esto demuestra que hay que mejorar la visibilidad de nuestras vistas, de una forma más intuitiva para el usuario.
+
+Analizando la gráfica una gran mayoría de las personas se mostró de forma poco satisfactoria al uso de esta vista.
+
+## Comprar Boletos por la Aplicación
+
+Viendo las respuestas de los usuarios, está “escondida” esta funcionalidad. Varios usuarios no la pudieron probar ya que se encontraba dentro de la pantalla “Notificaciones” y era poco intuitivo saber que allí se encontraba la opción para relacionar con tu tarjeta STM.
+
+Estaría bueno que el comprar boletos y por lo tanto sincronizar con la tarjeta STM estuviera en otra pantalla, esto ayudaría a que fuera más visible y se pudiera encontrar fácilmente la funcionalidad. 
+
+## Modo para personas no videntes:
+
+•	“No encontré este modo”
+
+Se esta repitiendo en diferentes vistas el hecho que el usuario no encontró de forma sencilla la funcionalidad, esto nos dice que no elegimos las mejores opciones de para localizarlas. Vamos a tener que poner dichas funcionalidades en lugares de la aplicación mas visibles. 
