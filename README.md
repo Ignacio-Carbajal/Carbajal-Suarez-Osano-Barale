@@ -13,6 +13,8 @@
 8. [Identificación del problema a resolver](#id8)
 9. [Prototipos con posibles Soluciones](#id9)
 10. [Ispeccion y Adaptacion del Producto](#id10)
+11. [Informe academico](#id11)
+12. [Link de la Demo](#id12)
 
 # Definición del Marco de Trabajo <a name="id1"></a>
 
@@ -1132,3 +1134,87 @@ Estaría bueno que el comprar boletos y por lo tanto sincronizar con la tarjeta 
 •	“No encontré este modo”
 
 Se esta repitiendo en diferentes vistas el hecho que el usuario no encontró de forma sencilla la funcionalidad, esto nos dice que no elegimos las mejores opciones de para localizarlas. Vamos a tener que poner dichas funcionalidades en lugares de la aplicación mas visibles. 
+
+# Informe Academico<a name="id11"></a>
+
+## Lecciones Aprenidas:
+
+
+**Marco de trabajo:**
+
+En la adaptación del marco de SCRUM fijamos reuniones a través de medios como mensajería vía WhatsApp y Google Teams y cuando el equipo podía reunirse mediante reuniones de 1 hora para saber en que estaba cada uno y que había podido hacer de las task asignadas, estas reuniones fueron tomadas en su totalidad vía Online y no presencial.
+
+Haciendo esto se perdió la ventaja de la comunicación continua, evidenciando falta de compromiso hacia la forma de trabajo SCRUM.
+En algunos casos no quedó del todo claro el objetivo de cada reunión ya que no definimos un itinerario fijo para estas instancias, esto llevó que la duración de estas no fuera siempre como lo habíamos pactado en el equipo. Hubiera sido mejor hacer más daily con una duración mucho menor y definir aparte de estas reuniones el resto de las ceremonias de SCRUM.
+
+Aprendimos el valor de las reuniones semanales y como el trabajo se nos hizo poco gradual y constante debido a la falta de estas.
+Definimos los roles de equipo sin embargo fue difícil simularlos ya que la carga de trabajo no es la misma para cada rol y en el marco de una entrega académica fuimos construyendo entre todas las actividades del proyecto.
+
+Aunque sabemos que los grupos de SCRUM son de 5 y nosotros somos 4, por lo que el trabajo de Developers se les asigna a todos.
+Nos costó mucho trabajo respetar DoD y DoR hasta el final del proyecto, creemos que esto se debió a la inexperiencia en metodologías ágiles. Siempre quedaban ambiguas las definiciones o no terminábamos de entender la utilidad final ya que nosotros teníamos la idea de lo que queríamos construir y nos costó bajar las estas ideas a una definición concreta.
+
+
+**Planificación de las Iteraciones:**
+
+Creemos que los objetivos del sprint estuvieron definidos desde el comienzo del proyecto, si bien nos costó bastante con la primera iteración. Aprendimos de los errores cometidos y a partir de la segunda, definimos de manera correcta los objetivos de cada iteración. 
+
+Logramos exitosamente definir el sprint backlog para cada iteración, esto fue bien importante para poder ir incrementando el producto en forma individual cada semana.  Tener bien definidas las tareas a realizar en cada iteración al comienzo de la misma fue de los elementos del marco SCRUM que nos aportó más valor a la hora de realizar el proyecto. 
+
+Con lo anterior nos referimos que sin tener la planificación bien lograda, nos hubiera resultado imposible lograr todo lo especificado por la letra del obligatorio y llegar con todo hecho a la hora de terminar la última iteración.
+
+En cuanto al prototipado, no tuvimos en cuenta el estudio de la herramienta y el tiempo que ello nos llevaría. Por lo tanto las tareas de prototipado pensadas para el Sprint Backlog de la iteración número 2 no fueron realizadas en el tiempo que se tenía en mente, lo que esto llevó a estar más apretados con los tiempos y realizar los cambios que los clientes nos sugirieron y recomendaron recién en la última iteración. Cosa que no fue planificada y nos gustó cuando pensamos en el Sprint Planning de la última iteración. 
+
+La velocidad durante el proyecto no fue pareja, teniendo ya definidos los story points, vimos durante la iteración 2 que no habíamos considerado la curva de aprendizaje, por eso tuvimos que sacar tareas del sprint backlog y adicionalmente dedicarle más horas de las estimadas inicialmente para llegar a la entrega que habíamos definido, está dedicación adicional en horas hace que la velocidad no sea fácil de promediar, sumado a que la cantidad de sprints no es suficiente para hacer un buen promedio. Suponemos en un proyecto real la dedicación de 8 horas diarias y la continuidad en el trabajo hace que sea más constante la velocidad.
+
+
+
+**Seguimientos de las iteraciones:**
+
+El seguimiento de las iteraciones fue uno de los mayores desafíos al que nos tuvimos que enfrentar como equipo. El registro de horas fue una de las tareas del marco de SCRUM que más nos costó, nos olvidábamos frecuentemente de registrar el trabajo realizado, factor que después nos pasaba factura a la hora de hacer el cálculo de horas final o analizar el avance del equipo en sus tareas.
+
+Al igual que pasa en el ámbito laboral el registro de horas es una de las tareas más delegadas por los miembros del equipo y mas de la forma de trabajo online que al estar desde la comodidad de tu casa, hace que te olvides más fácilmente al no estar en ese ambiente de trabajo o oficina.
+Dentro del SCRUM creemos que tiene el beneficio de que el registro de horas es una herramienta más para que el equipo pueda auto organizarse y en base a esto analizar que tan bueno fue el trabajo realizado.
+
+Para marcar las horas usamos toggl track, herramienta que sincronizamos con nuestro AzureDevops para marcar las horas de las tareas en las que estábamos trabajando.
+Pudimos hacer el seguimiento de las reuniones mediante el template de la minuta que armamos, de este modo logramos tener un seguimiento del trabajo realizado.
+
+
+**Inspección y Adaptación del Proceso:**
+
+Las instancias de retrospectivas fueron bastante útiles, por un lado ayudaron a reforzar el equipo de trabajo y por otro lado pudimos identificar problemas e intentar mejorarlos.
+		
+Uno de los problemas principales identificados en todas las retrospectivas fueron problemas con el registro de horas, esto fue mejorando progresivamente(la iteración 4 el registro fue más gradual), pero todavía se podría mejorar.
+
+Otro de los problemas identificados fue la fuente de información y el adelantar trabajo sin asegurarnos si dicho trabajo es lo esperado. Por lo tanto a medida que avanzaron las iteraciones fuimos implementando herramientas para asegurarnos que lo que estábamos realizando tenían un feedback positivo de parte de los docentes. 
+
+## Conclusiones: 
+
+En primer lugar, uno de los mayores retos fue definir un marco de trabajo, así como la definición de roles. 
+Definir el marco de trabajo implicó conocernos como equipo. Es decir, fue necesario conocer los horarios de cada uno de los integrantes. Con esto nos referimos a conocer los horarios cursa cada uno y en qué horario trabaja.
+Por otro lado, la conformación de un equipo que por primera vez trabajó junto fue desafiante y emocionante, en tanto no conocíamos el ritmo de trabajo ni la forma en la que cada uno trabajaba fueron surgiendo dudas e inquietudes que fuimos solucionando a medida que avanzabamos con cada iteración y empezamos a conocernos mejor. 
+
+La definición de roles implicó intentar conocernos e intentar apegarnos a los intereses de cada uno, aunque ya nos conocíamos de antes nunca habíamos encarado un proyecto de una materia todos juntos. Esto adquirió real importancia en el transcurso de los sprints, puesto que entendemos que la motivación y el interés en determinadas tareas está en gran punto alineado a la productividad que puede aportar cada uno. Si bien no se realizó al pie de la letra, la división de las tareas se hizo cada vez más sencilla a medida que avanzamos en el proceso.
+
+Conocernos, entender qué nos motiva, en donde se siente cómodo trabajando cada uno, en qué horario trabajamos y entender las frustraciones derivó en un mayor sentimiento de grupo concluyendo en un buen resultado final relativo al proceso realizado. 
+
+En este sentido, aprendimos que la conformación de un equipo no es una tarea sencilla, el proceso de conocernos como equipo de trabajo fue fundamental para esto. Por esto, destacamos la importancia de las retrospectivas. A medida que mejoraba el proceso , mejoraba la comunicación y el trabajo mutuo.
+
+Aplicar las prácticas de gestión ágil en este mini proyecto ha sido muy enriquecedor y desafiante, vernos expuestos al problema de modelar un producto que resultamos conocer menos de lo que creíamos demostró ser una gran salto para llegar a ver el poder de estas herramientas y especialmente de su agilidad.
+
+Al comenzar el proyecto, cuando intentamos estimar y definir alcances por primera vez, nos sentimos un poco sobrepasados por la cantidad de requerimientos que podríamos detectar, además de pensar los nuevos requerimientos que le dieran un valor agregado a nuestra aplicación en comparación con la competencia. Con el correr de las iteraciones nuestros procesos fueron mejorando notoriamente. Acercarnos al marco de scrum y a sus distintas ceremonias en los momentos en los que estábamos
+más perdidos y consultar con los tutores a cargo fue crucial para poder llevar las riendas del proyecto y lograr conseguir entregables que nos dejarán lo más satisfechos posibles al final de cada iteración.
+
+El proyecto también expuso una parte importante del proceso de ingeniería de software que suele omitirse o dejar de lado. Esto es la validación de los requerimientos con los usuarios. 
+
+La idea de dejar al cliente que  interactúa libremente con la aplicación es una fuente interesantísima de información que nos hace ver el producto de una manera que normalmente no lo miraríamos.
+Lo más importante de esto es que al fin y al cabo la manera en la que el cliente vea lo que estamos haciendo es lo que más importa. Esta demostró ser una actividad valiosísima en el proyecto.
+
+En el apartado del trabajo en equipo, el número de reuniones que elegimos tener nos resultó que pudieron haber sido más no obstante logramos mantener una comunicación fluida y un buen seguimiento del avance sin llegar a interferir 
+con otras materias ni obligaciones de los miembros del equipo. También trabajamos mucho con actividades durante las retrospectivas para poder dar nuestros puntos de vista y compartir cómo nos sentimos con el trabajo durante las iteraciones.
+Todo esto no fue un trabajo realizado de forma correcta desde el principio, nos llevó trabajo acostumbrarnos a las reuniones debido a la carga horaria de cada uno del equipo, pero pasando por las iteraciones este aspecto fue mejorando notoriamente.
+
+Una herramienta que encontramos muy útil fue la de llevar un registro actualizado del trabajo para en base a esto medir el avance del proyecto. Algunos miembros del equipo hemos trabajado en lugares donde se nos solicita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos abrió los ojos sobre la importancia de llevar los registros y de la cantidad de información que podemos estar aportando al equipo y la organización.
+
+Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, ya que la mayoría del equipo las vio aplicadas de primera mano en sus trabajos pero sin conocer el marco teórico detrás de esta forma de trabajo. Hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad y la funcionalidad que SCRUM nos brinda para resolver dichos problemas, ver que todas esas actividades y que las ceremonias tienen un propósito y en determinados momentos del ciclo de vida del proyecto pueden ser de mucha utilidad.
+
+# Link de la demo<a name="id12"></a>
