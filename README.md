@@ -302,32 +302,38 @@ Si bien mejoramos la Velocidad en tanto adaptamos el proceso, entendemos que est
 
 
 ### Iteracion 04
-
+ 
 **Nomenclatura :** Stoty point (id de la user story)
-
-1) **Total de puntos completados** = 
-
+ 
+1) **Total de puntos completados** = 51 (suma hecha en AzureDevops)
+ 
 2) **Total de jornadas reales:**
-
-    (Son 4 iteraciones de 2 semanas cada una: 14 dias)
-
-    
-
+ 
+    (Son 4 iteraciones de 2 semanas cada una: 14 días)
+	**Jornadas Ideales** = 14 +14 + 14 + 14 = 56
+ 
+    **Jornadas Reales** = 12 + 12 + 12 + 12 = 48
+ 
+    **Jornadas Peor Caso** = 1 + 1 + 1 + 1 = 4
+ 
+   
+ 
 3) **Calculo de la Velocidad**
    
    * La velocidad es la división de los puntos completados y de las jornadas reales
-* 
-
-    V = 
-
+*
+ 
+    V = 51 / 48 = 106%
+ 
    | Iteración | Velocidad |
 | --------- | -------- |
 | 1         |   -      |
-| 2         | 70%      | 
+| 2         | 70%      |
 | 3         | 115%     |
-| 4         |          |
+| 4         |     106%     |
 
-*agregar comentario*
+
+Como se puede observar la cantidad de hora trabajada disminuyó con respecto a la iteración pasada, esto se debe a que la iteración pasada tuvimos que hacer los prototipos.
 
 #  Inspeccion y adaptacion del proceso <a name="id3"></a>
 
@@ -385,6 +391,9 @@ Esto se cumplió como se esperaba, ya que a la mínima duda o inconveniente que 
 
 3- Al igual que el punto anterior, nuestra intención era juntarnos de manera presencial 1 vez por semana. Esto no fue una buena elección de mejora, ya que por tema de tiempos y distancias nos resultó casi imposible coordinar horario y lugar de encuentro.
 
+### Iteracion 4
+
+![Retro_Iteracion02](EvidenciaDocumentacion/Retrospectiva/Iteracion04/todo.png)
 
 
 # Seguimiento de las Iteraciones <a name="id4"></a>
@@ -479,6 +488,37 @@ Termine de hacer las tareas asignadas para esta iteracion..
 
 Hicimos todos los prototipos pedidos.
 
+### Cuarta iteracion.
+
+Daily 1:
+
+Lucas:
+No me tranque, avance con mis tareas sin ningún impedimento. 
+
+Ignacio:
+Avance con mis tareas sin problemas, ayude a los Developers con los prototipos.
+
+Felipe:
+Estuve haciendo mis prototipos, me tranque y me ayudó Ignacio.
+
+Agustín:
+Junto con Felipe estuvimos con los prototipos, arreglando según el feedback recibido
+
+Daily 2:
+
+Lucas:
+No me tranque, avance con mis tareas sin ningún impedimento. Ayude a los Developers.
+
+Ignacio:
+Avance con mis tareas sin problemas.
+
+Felipe:
+Estuve haciendo mis prototipos.
+
+Agustín:
+Junto con Felipe estuvimos con los prototipos.
+
+
 ## BurdownChart
 
 ### Iteracion 01
@@ -489,9 +529,17 @@ Al no tener un Product Backlog bien definido, es decir, con las story maps y las
 
 Al no tener un Product Backlog bien definido, es decir, con las story maps y las tareas en asigandas a cada historia, no se pudo realizar el BurdownChart esperado. 
 
-### Iteracion03
+### Iteracion 03
 
 ![BurnDown_Iteracion03](EvidenciaDocumentacion/Otras/BurnDownChart_Iteracion03.png)
+
+### Iteracion 04
+
+![BurnDown_Iteracion04](EvidenciaDocumentacion/Otras/BurnDownChartIteracion04.png)
+
+* Como se puede ver, se completó la totalidad de las tareas pensadas para esta iteración. 
+
+* También se puede observar, que las tareas se arrancaron 2 días después del comienzo de la iteración. 
 
 #### Conclusiones
 
@@ -533,6 +581,16 @@ Como se puede observar en la tabla mostrada, las tareas de cada integrante sigue
 
 Dentro de la carpeta EvidenciaDocumentacion/RegistroHoras/Iteracion03 pueden encontrar sub carpetas con el nombre de cada integrante del equipo. Dentro de dichas carpetas encontraran un PDF por cada integrante que el mismo contiene las horas marcadas con la herramienta Toggl y las horas marcadas en Azure Devops con sus respectivas estimaciones.
   
+
+## Iteracion 04
+| Persona             | Horas | Actividades Realizadas (Id de la task)|
+| ------------------- | ----- |---------------------------------------|
+| Lucas               | 4.16  |  155,153,172,174,178,161,128,120,114,107,103,170,168                   |
+| Ignacio             | 4.93  |  177,164,161,125,121,115,109,102,169,167                     |
+| Felipe              | 2.36 | 165,129,124,116,110,111,104        |
+| Agustin             | 5  | 122, 163,126,117,111,105              |
+
+
 ## Retros
 
 ![Retro](EvidenciaDocumentacion/RegistroHoras/Retros/Iteracion02.png)
