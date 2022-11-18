@@ -202,6 +202,10 @@ Sumando esto se pensó bien el product backlog, el armado del story map con sus 
 
 ![Sprint Backlog Iteracion 3](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion03.JPG)
 
+### Iteracion 04
+
+![Sprint Backlog Iteracion 3](EvidenciaDocumentacion/SprintBacklog/sprontBacklogIteracion04.png)
+
 ## Story Map
 
 ![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.jpeg)
@@ -302,32 +306,38 @@ Si bien mejoramos la Velocidad en tanto adaptamos el proceso, entendemos que est
 
 
 ### Iteracion 04
-
+ 
 **Nomenclatura :** Stoty point (id de la user story)
-
-1) **Total de puntos completados** = 
-
+ 
+1) **Total de puntos completados** = 51 (suma hecha en AzureDevops)
+ 
 2) **Total de jornadas reales:**
-
-    (Son 4 iteraciones de 2 semanas cada una: 14 dias)
-
-    
-
+ 
+    (Son 4 iteraciones de 2 semanas cada una: 14 días)
+	**Jornadas Ideales** = 14 +14 + 14 + 14 = 56
+ 
+    **Jornadas Reales** = 12 + 12 + 12 + 12 = 48
+ 
+    **Jornadas Peor Caso** = 1 + 1 + 1 + 1 = 4
+ 
+   
+ 
 3) **Calculo de la Velocidad**
    
    * La velocidad es la división de los puntos completados y de las jornadas reales
-* 
-
-    V = 
-
+*
+ 
+    V = 51 / 48 = 106%
+ 
    | Iteración | Velocidad |
 | --------- | -------- |
 | 1         |   -      |
-| 2         | 70%      | 
+| 2         | 70%      |
 | 3         | 115%     |
-| 4         |          |
+| 4         |     106%     |
 
-*agregar comentario*
+
+Como se puede observar la cantidad de hora trabajada disminuyó con respecto a la iteración pasada, esto se debe a que la iteración pasada tuvimos que hacer los prototipos.
 
 #  Inspeccion y adaptacion del proceso <a name="id3"></a>
 
@@ -385,6 +395,9 @@ Esto se cumplió como se esperaba, ya que a la mínima duda o inconveniente que 
 
 3- Al igual que el punto anterior, nuestra intención era juntarnos de manera presencial 1 vez por semana. Esto no fue una buena elección de mejora, ya que por tema de tiempos y distancias nos resultó casi imposible coordinar horario y lugar de encuentro.
 
+### Iteracion 4
+
+![Retro_Iteracion02](EvidenciaDocumentacion/Retrospectiva/Iteracion04/todo.png)
 
 
 # Seguimiento de las Iteraciones <a name="id4"></a>
@@ -479,6 +492,37 @@ Termine de hacer las tareas asignadas para esta iteracion..
 
 Hicimos todos los prototipos pedidos.
 
+### Cuarta iteracion.
+
+Daily 1:
+
+Lucas:
+No me tranque, avance con mis tareas sin ningún impedimento. 
+
+Ignacio:
+Avance con mis tareas sin problemas, ayude a los Developers con los prototipos.
+
+Felipe:
+Estuve haciendo mis prototipos, me tranque y me ayudó Ignacio.
+
+Agustín:
+Junto con Felipe estuvimos con los prototipos, arreglando según el feedback recibido
+
+Daily 2:
+
+Lucas:
+No me tranque, avance con mis tareas sin ningún impedimento. Ayude a los Developers.
+
+Ignacio:
+Avance con mis tareas sin problemas.
+
+Felipe:
+Estuve haciendo mis prototipos.
+
+Agustín:
+Junto con Felipe estuvimos con los prototipos.
+
+
 ## BurdownChart
 
 ### Iteracion 01
@@ -489,9 +533,17 @@ Al no tener un Product Backlog bien definido, es decir, con las story maps y las
 
 Al no tener un Product Backlog bien definido, es decir, con las story maps y las tareas en asigandas a cada historia, no se pudo realizar el BurdownChart esperado. 
 
-### Iteracion03
+### Iteracion 03
 
 ![BurnDown_Iteracion03](EvidenciaDocumentacion/Otras/BurnDownChart_Iteracion03.png)
+
+### Iteracion 04
+
+![BurnDown_Iteracion04](EvidenciaDocumentacion/Otras/BurnDownChartIteracion04.png)
+
+* Como se puede ver, se completó la totalidad de las tareas pensadas para esta iteración. 
+
+* También se puede observar, que las tareas se arrancaron 2 días después del comienzo de la iteración. 
 
 #### Conclusiones
 
@@ -533,6 +585,16 @@ Como se puede observar en la tabla mostrada, las tareas de cada integrante sigue
 
 Dentro de la carpeta EvidenciaDocumentacion/RegistroHoras/Iteracion03 pueden encontrar sub carpetas con el nombre de cada integrante del equipo. Dentro de dichas carpetas encontraran un PDF por cada integrante que el mismo contiene las horas marcadas con la herramienta Toggl y las horas marcadas en Azure Devops con sus respectivas estimaciones.
   
+
+## Iteracion 04
+| Persona             | Horas | Actividades Realizadas (Id de la task)|
+| ------------------- | ----- |---------------------------------------|
+| Lucas               | 4.16  |  155,153,172,174,178,161,128,120,114,107,103,170,168                   |
+| Ignacio             | 4.93  |  177,164,161,125,121,115,109,102,169,167                     |
+| Felipe              | 2.36 | 165,129,124,116,110,111,104        |
+| Agustin             | 5  | 122, 163,126,117,111,105              |
+
+
 ## Retros
 
 ![Retro](EvidenciaDocumentacion/RegistroHoras/Retros/Iteracion02.png)
@@ -1002,63 +1064,92 @@ Link: https://standards-rob-722613.framer.app
 ## Capturas de Prototipos
 
 
-### Historial:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/BuscarLineas.JPG)
-Dicha funcionalidad sería mostrar por pantalla los últimos viajes que realizó el usuario por si quiere repetir algún trayecto, no debe ingresar nuevamente todos los datos.
-
-### Buscar Paradas:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.JPG)
-Este prototipo es la funcionalidad principal de la aplicación, sufuncion es marcar un lugar de destino y otro de origen, y la aplicación estudia dicho trayecto en nos devuelve una lista de ómnibus disponibles que poder tomar con sus respectivo arriba a la parada de origen.
-
-### Cambiar Contraseña:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CambiarContrase%C3%B1a.JPG)
-Su funcionalidad sería cambiar la contraseña del inicio de sesión.
-
-### Compartir viaje:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CompartirViaje.JPG)
-Si yo quiero que una persona se suba al mismo ómnibus que yo, se encuentra la función compartir mi viaje. Se comparte el link por medio de cualquier red social en la cual el usuario tiene una cuenta asociada.
-
-### Configuraciones:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Configuraciones.JPG)
-Aca hay varias funcionalidades de la aplicación:
-
-- Podemos acceder a la pantalla de cambiar mi contraseña
-- Podemos cerrar la sesión del usuario logueado
-- Podemos sincronizar la tarjeta STM para poder pagar el viaje desde la app 
-
-### Home:
+### Login:
 ![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Home.JPG)
+
 Esta es la pantalla principal de la aplicación, cuando ingresamos a la aplicación nos va a pedir un usuario y contraseña para acceder a sus funcionalidades.
 
-Si no contamos con una cuenta, nos lleva a la vista para efectivamente crearnos una.
-
-### Modo viaje:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ModoViaje.JPG)
-En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
-subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
-hasta el próximo destino e información del destino.
-
-### Modo viaje #2 :
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ModoViaje2.JPG)
-En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
-subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
-hasta el próximo destino e información del destino.
-
-### Notificaciones:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Notificaciones.JPG)
-Se notifica al usuario sobre cambios de líneas o arribo a las paradas favoritas.
-
-### Parada favoritas:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ParadasFavoritas.JPG)
-El usuario puede registrar paradas favoritas para poder acceder más fácilmente a sus líneas de mayor uso. 
+Si no contamos con una cuenta, podemos registrarnos o iniciar sesion con google.
 
 ### Registrar usuarios:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RegistarUsuario.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RegistarUsuario.JPEG)
+
 Para acceder a las funcionalidades de la aplicación precisamos si o si un usuario. Si la persona que quiere utilizar la app no cumple dicho requisito principal, tenemos esta pantalla para que pueda ingresar sus datos personales y así poder crearse una nueva cuenta. 
+
+### Iniciar sesion con google:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/LoginGoogle.JPEG)
+
+Para acceder a las funcionalidades de la aplicación precisamos si o si un usuario. Si la persona que quiere utilizar la app no cumple dicho requisito principal, tenemos esta pantalla para que pueda ingresar sus datos personales y así poder crearse una nueva cuenta. 
+
+
 
 ### Restaurar Contraseña:
 ![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RestaurarContrase%C3%B1a.JPG)
 En esta funcionalidad podemos ingresar el mail del usuario para restaurar su contraseña.
+
+### Pantalla principal:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.JPG)
+Si el usuario no quere registrarse en el sistema tiene la opción de iniciar sesion con google, llevandolo directamente a la pantalla principal.
+
+### Historial:
+Dicha funcionalidad sería mostrar por pantalla los últimos viajes que realizó el usuario por si quiere repetir algún trayecto, no debe ingresar nuevamente todos los datos.
+
+### Buscar viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/buscarviaje.JPG)
+Una vez ingresado el destino y el origen deseados, podemos seleccionar las diferentes lineas disponibles que cumplen con el trayecto, también se puede filtrar por ómnibus para discapacitados.
+Para cada omnibus se muestra el tiempo aproximado que demora en llegar y la cantidad de pasajeros que lleva.
+
+### Filtro discapacitado:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/filtroDiscapacitado.JPG)
+
+
+### Modo viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/viaje.JPG)
+En esta pantalla el usuario se le muestra el trayecto del viaje y el tiempo aproximado, teniendo un botón para comenzar el viaje.
+
+### Modo viaje #2 :
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/tripmode.JPG)
+En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
+subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
+hasta el próximo destino e información del destino.
+
+
+### Compartir viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CompartirViaje.JPG)
+
+Si yo quiero que una persona se suba al mismo ómnibus que yo, se encuentra la función compartir mi viaje. Se comparte el link por medio de cualquier red social en la cual el usuario tiene una cuenta asociada.
+
+
+### Información de mi cuenta:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/MiCuenta.JPG)
+
+Aca hay varias funcionalidades de la aplicación:
+
+- Podemos acceder a la pantalla de cambiar mi contraseña
+- Podemos cerrar la sesión del usuario logueado
+
+### Cambiar Contraseña:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/changePassword.JPG)
+
+Su funcionalidad sería cambiar la contraseña del inicio de sesión.
+
+### Boletera:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/settings.JPG)
+
+En esta pantalla podemos ver nuestro saldo en la boletera STM, podemos sincronizar la misma y tambien podemos pagar el boleto utilizando la aplicación.
+Podemos también ver los boletos de nuestros últimos viajes.
+
+### Pagar:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Pagar.JPG)
+Al acceder a esta pantalla debemos acercar el celular al sensor de proximidad del ómnibus para pagar el boleto.
+
+### Asistente de voz:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/audio.JPG)
+La aplicación cuenta con un asistente de voz para realizar las diferentes funcionalidades reconociendo la voz del usuario.
+
+### Notificaciones:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Notificaciones.JPG)
+Se notifica al usuario sobre cambios de líneas o arribo a las paradas favoritas.
 
 # Ispeccion y Adaptacion del Producto<a name="id10"></a>
 
@@ -1218,3 +1309,4 @@ Una herramienta que encontramos muy útil fue la de llevar un registro actualiza
 Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, ya que la mayoría del equipo las vio aplicadas de primera mano en sus trabajos pero sin conocer el marco teórico detrás de esta forma de trabajo. Hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad y la funcionalidad que SCRUM nos brinda para resolver dichos problemas, ver que todas esas actividades y que las ceremonias tienen un propósito y en determinados momentos del ciclo de vida del proyecto pueden ser de mucha utilidad.
 
 # Link de la demo<a name="id12"></a>
+https://standards-rob-722613.framer.app/
