@@ -202,6 +202,10 @@ Sumando esto se pensó bien el product backlog, el armado del story map con sus 
 
 ![Sprint Backlog Iteracion 3](EvidenciaDocumentacion/SprintBacklog/SprintBacklog_Iteracion03.JPG)
 
+### Iteracion 04
+
+![Sprint Backlog Iteracion 3](EvidenciaDocumentacion/SprintBacklog/sprontBacklogIteracion04.png)
+
 ## Story Map
 
 ![Story Map](EvidenciaDocumentacion/StoryMap/StoryMapGeneral.jpeg)
