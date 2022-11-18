@@ -1085,6 +1085,7 @@ Para acceder a las funcionalidades de la aplicación precisamos si o si un usuar
 
 ### Restaurar Contraseña:
 ![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RestaurarContrase%C3%B1a.JPG)
+
 En esta funcionalidad podemos ingresar el mail del usuario para restaurar su contraseña.
 
 ### Pantalla principal:
