@@ -1064,63 +1064,92 @@ Link: https://standards-rob-722613.framer.app
 ## Capturas de Prototipos
 
 
-### Historial:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/BuscarLineas.JPG)
-Dicha funcionalidad sería mostrar por pantalla los últimos viajes que realizó el usuario por si quiere repetir algún trayecto, no debe ingresar nuevamente todos los datos.
-
-### Buscar Paradas:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.JPG)
-Este prototipo es la funcionalidad principal de la aplicación, sufuncion es marcar un lugar de destino y otro de origen, y la aplicación estudia dicho trayecto en nos devuelve una lista de ómnibus disponibles que poder tomar con sus respectivo arriba a la parada de origen.
-
-### Cambiar Contraseña:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CambiarContrase%C3%B1a.JPG)
-Su funcionalidad sería cambiar la contraseña del inicio de sesión.
-
-### Compartir viaje:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CompartirViaje.JPG)
-Si yo quiero que una persona se suba al mismo ómnibus que yo, se encuentra la función compartir mi viaje. Se comparte el link por medio de cualquier red social en la cual el usuario tiene una cuenta asociada.
-
-### Configuraciones:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Configuraciones.JPG)
-Aca hay varias funcionalidades de la aplicación:
-
-- Podemos acceder a la pantalla de cambiar mi contraseña
-- Podemos cerrar la sesión del usuario logueado
-- Podemos sincronizar la tarjeta STM para poder pagar el viaje desde la app 
-
-### Home:
+### Login:
 ![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Home.JPG)
+
 Esta es la pantalla principal de la aplicación, cuando ingresamos a la aplicación nos va a pedir un usuario y contraseña para acceder a sus funcionalidades.
 
-Si no contamos con una cuenta, nos lleva a la vista para efectivamente crearnos una.
-
-### Modo viaje:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ModoViaje.JPG)
-En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
-subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
-hasta el próximo destino e información del destino.
-
-### Modo viaje #2 :
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ModoViaje2.JPG)
-En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
-subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
-hasta el próximo destino e información del destino.
-
-### Notificaciones:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Notificaciones.JPG)
-Se notifica al usuario sobre cambios de líneas o arribo a las paradas favoritas.
-
-### Parada favoritas:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/ParadasFavoritas.JPG)
-El usuario puede registrar paradas favoritas para poder acceder más fácilmente a sus líneas de mayor uso. 
+Si no contamos con una cuenta, podemos registrarnos o iniciar sesion con google.
 
 ### Registrar usuarios:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RegistarUsuario.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RegistarUsuario.JPEG)
+
 Para acceder a las funcionalidades de la aplicación precisamos si o si un usuario. Si la persona que quiere utilizar la app no cumple dicho requisito principal, tenemos esta pantalla para que pueda ingresar sus datos personales y así poder crearse una nueva cuenta. 
+
+### Iniciar sesion con google:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/LoginGoogle.JPEG)
+
+Para acceder a las funcionalidades de la aplicación precisamos si o si un usuario. Si la persona que quiere utilizar la app no cumple dicho requisito principal, tenemos esta pantalla para que pueda ingresar sus datos personales y así poder crearse una nueva cuenta. 
+
+
 
 ### Restaurar Contraseña:
 ![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/RestaurarContrase%C3%B1a.JPG)
 En esta funcionalidad podemos ingresar el mail del usuario para restaurar su contraseña.
+
+### Pantalla principal:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/PantallaPrincipal.JPG)
+Si el usuario no quere registrarse en el sistema tiene la opción de iniciar sesion con google, llevandolo directamente a la pantalla principal.
+
+### Historial:
+Dicha funcionalidad sería mostrar por pantalla los últimos viajes que realizó el usuario por si quiere repetir algún trayecto, no debe ingresar nuevamente todos los datos.
+
+### Buscar viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/buscarviaje.JPG)
+Una vez ingresado el destino y el origen deseados, podemos seleccionar las diferentes lineas disponibles que cumplen con el trayecto, también se puede filtrar por ómnibus para discapacitados.
+Para cada omnibus se muestra el tiempo aproximado que demora en llegar y la cantidad de pasajeros que lleva.
+
+### Filtro discapacitado:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/filtroDiscapacitado.JPG)
+
+
+### Modo viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/viaje.JPG)
+En esta pantalla el usuario se le muestra el trayecto del viaje y el tiempo aproximado, teniendo un botón para comenzar el viaje.
+
+### Modo viaje #2 :
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/tripmode.JPG)
+En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
+subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
+hasta el próximo destino e información del destino.
+
+
+### Compartir viaje:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/CompartirViaje.JPG)
+
+Si yo quiero que una persona se suba al mismo ómnibus que yo, se encuentra la función compartir mi viaje. Se comparte el link por medio de cualquier red social en la cual el usuario tiene una cuenta asociada.
+
+
+### Información de mi cuenta:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/MiCuenta.JPG)
+
+Aca hay varias funcionalidades de la aplicación:
+
+- Podemos acceder a la pantalla de cambiar mi contraseña
+- Podemos cerrar la sesión del usuario logueado
+
+### Cambiar Contraseña:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/changePassword.JPG)
+
+Su funcionalidad sería cambiar la contraseña del inicio de sesión.
+
+### Boletera:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/settings.JPG)
+
+En esta pantalla podemos ver nuestro saldo en la boletera STM, podemos sincronizar la misma y tambien podemos pagar el boleto utilizando la aplicación.
+Podemos también ver los boletos de nuestros últimos viajes.
+
+### Pagar:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Pagar.JPG)
+Al acceder a esta pantalla debemos acercar el celular al sensor de proximidad del ómnibus para pagar el boleto.
+
+### Asistente de voz:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/audio.JPG)
+La aplicación cuenta con un asistente de voz para realizar las diferentes funcionalidades reconociendo la voz del usuario.
+
+### Notificaciones:
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Notificaciones.JPG)
+Se notifica al usuario sobre cambios de líneas o arribo a las paradas favoritas.
 
 # Ispeccion y Adaptacion del Producto<a name="id10"></a>
 
@@ -1280,3 +1309,4 @@ Una herramienta que encontramos muy útil fue la de llevar un registro actualiza
 Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, ya que la mayoría del equipo las vio aplicadas de primera mano en sus trabajos pero sin conocer el marco teórico detrás de esta forma de trabajo. Hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad y la funcionalidad que SCRUM nos brinda para resolver dichos problemas, ver que todas esas actividades y que las ceremonias tienen un propósito y en determinados momentos del ciclo de vida del proyecto pueden ser de mucha utilidad.
 
 # Link de la demo<a name="id12"></a>
+https://standards-rob-722613.framer.app/
