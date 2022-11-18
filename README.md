@@ -1101,7 +1101,7 @@ Una vez ingresado el destino y el origen deseados, podemos seleccionar las difer
 Para cada omnibus se muestra el tiempo aproximado que demora en llegar y la cantidad de pasajeros que lleva.
 
 ### Filtro discapacitado:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/filtroDiscapacitado.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/filtroDiscapacitado.jpg)
 
 
 ### Modo viaje:
@@ -1109,7 +1109,7 @@ Para cada omnibus se muestra el tiempo aproximado que demora en llegar y la cant
 En esta pantalla el usuario se le muestra el trayecto del viaje y el tiempo aproximado, teniendo un botón para comenzar el viaje.
 
 ### Modo viaje #2 :
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/tripmode.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/tripMode.jpg)
 En esta pantalla el usuario debe poder seguir el trayecto de la línea de ómnibus a la que se
 subió, pudiendo saber en qué parte del recorrido se encuentra, cuáles son las paradas
 hasta el próximo destino e información del destino.
@@ -1122,7 +1122,7 @@ Si yo quiero que una persona se suba al mismo ómnibus que yo, se encuentra la f
 
 
 ### Información de mi cuenta:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/MiCuenta.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/MiCuenta.jpg)
 
 Aca hay varias funcionalidades de la aplicación:
 
@@ -1130,22 +1130,22 @@ Aca hay varias funcionalidades de la aplicación:
 - Podemos cerrar la sesión del usuario logueado
 
 ### Cambiar Contraseña:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/changePassword.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/changePassword.jpg)
 
 Su funcionalidad sería cambiar la contraseña del inicio de sesión.
 
 ### Boletera:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/settings.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/settings.jpg)
 
 En esta pantalla podemos ver nuestro saldo en la boletera STM, podemos sincronizar la misma y tambien podemos pagar el boleto utilizando la aplicación.
 Podemos también ver los boletos de nuestros últimos viajes.
 
 ### Pagar:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Pagar.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/Pagar.jpg)
 Al acceder a esta pantalla debemos acercar el celular al sensor de proximidad del ómnibus para pagar el boleto.
 
 ### Asistente de voz:
-![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/audio.JPG)
+![Bocetos Iteracion02](EvidenciaDocumentacion/Prototipos/audio.jpg)
 La aplicación cuenta con un asistente de voz para realizar las diferentes funcionalidades reconociendo la voz del usuario.
 
 ### Notificaciones:
